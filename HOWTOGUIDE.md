@@ -8,18 +8,17 @@ This page will give you a brief overview of how to access, navigate, edit and sh
 CN Lesson Plans are made using [glitch](https://glitch.com/) and [reveal.js](https://github.com/hakimel/reveal.js/).
 Each lesson plan is a self-contained repository including slides, materials and lesson plans
 
-## Accessing Slide Show
+## Accessing the Slide Show
 
-To view the slide show in a new tab press the `show` button at the top of your screen then press `In a new window`. You're all set!
+To view the slide show from your glitch project page simply press the `🕶️show` button at the top of your screen. Then press `In a new window`. You're all set!
 
 ## Using the Slide Show
 
-Reveal.js has some great formating and features that included out of the box.
-Just use the key board arrows or the arrows in the bottom right corner to flip through slides.
+You've got this! Just use the key board arrows or the arrows in the bottom right corner to flip through the slides.
 
 ## CN Actions
-To access the CN Actions simply click on the 
-- **Share to Classroom** - This will open Google Classrooms sharing interface and will aumatically attach the current slide show's URL to what ever 
+To access the CN Actions simply click on the CN logo in the bottom left corner of any page
+- **Share to Classroom** - This will open Google Classrooms sharing interface and will aumatically attach the current slide show's URL 
 - **Print PDF** - This will open up a new window with a printer friendly version of the slide show
 
 ### Shortcuts
@@ -27,28 +26,14 @@ To access the CN Actions simply click on the
 - **Pause**  - Press `B`on the Keyboard
 - **Zoom** - Press `ctrl` on PC or `option` on Mac and click where you would like to Zoom
 
+### Glitch Features
+As you can probably already tell each lesson is its very own glitch project. What this means is we can view the source, remix/edit your own verision!
+To access the glitch project from your slide show simply click the glitch fish icon in the top right corner of the page!
 
-## File Structure
-Let's take a look a what we've got!
 
-```
-.
-├── _reveal
-├── HOWTOGUIDE.md
-├── README.md
-├── SLIDES.md
-├── index.html
-```
+## Editing Your Slide Show
 
-**reveal** - This is the folder containing reveal.js files. You shouldn't be editing this.
-
-**HOWTOGUIDE.md** - You're already here!
-
-**README.md** - This is the primary teacher facing lesson plan
-
-**SLIDES.md** - This where we write the content for the slides in markdown
-
-**index.html** - This where we configure and serve the slide show. You shouldn't be editing this either :)
+The
 
 
 
