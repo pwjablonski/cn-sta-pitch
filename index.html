@@ -154,13 +154,21 @@
       // click menu
       const cnLogo = document.querySelector(".cnLogo");
       const cnMenuPopUp = document.querySelector(".cnMenuPopUp");
-      cnLogo.addEventListener("click", function() {
+      cnLogo.addEventListener("click", function(event) {
         if (cnMenuPopUp.style.display === "none") {
           cnMenuPopUp.style.display = "block";
         } else {
           cnMenuPopUp.style.display = "none";
         }
+        event.stopPropagation();
       });
+      
+      document.addEventListener("click", function() {
+        if (cnMenuPopUp.style.display === "block") {
+          cnMenuPopUp.style.display = "none";
+        }
+      });
+
     </script>
   </body>
 </html>

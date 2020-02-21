@@ -18,7 +18,7 @@ To view the slide show from your glitch project page simply press the `🕶️sh
 ## Navigating the Slide Show
 
 Just use the key board arrows or the arrows in the bottom right corner to flip through the slides.
-The slide show also has some great presentation features you can take advantage of.
+The slides also have some great presentation features you can take advantage of.
 
 - **Speaker Notes** - Press `S` on the Keyboard
 - **Pause** - Press `B`on the Keyboard
@@ -34,7 +34,7 @@ To access the CN Actions simply click on the CN logo in the bottom left corner o
 ## Glitch Features
 
 As you can probably already tell each lesson is its very own glitch project. What this means is we can view the source, remix/edit your own verision!
-To access the glitch project from your slide show simply click the glitch fish icon in the top right corner of the page!
+To access the glitch project from your slide show simply click the glitch fish icon 🎏 in the top right corner of the page!
 
 ## Editing Your Slide Show
 
