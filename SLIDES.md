@@ -48,7 +48,7 @@ This is a timer
 
 ## Decoration
 
-** bold **
+**bold**
 ~~strike thorough~~
 _italics_
 

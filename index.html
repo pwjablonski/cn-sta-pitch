@@ -32,6 +32,7 @@
         bottom: 100%;
         margin-bottom: 5px;
         display: none;
+        min-width: 200px;
       }
 
       .cnMenuPopUpSection {
@@ -77,24 +78,24 @@
     <div class="cnMenu" style="position:fixed;bottom:20px;left:20px;">
       <div class="cnMenuPopUp" style="display:none">
         <div class="cnMenuPopUpSection">
-          <p>Actions</p>
+          <p><strong>Actions</strong></p>
           <a
             class="buttonLinks"
             id="shareToClassroom"
             href="https://classroom.google.com/"
             target="_blank"
           >
-            Google Classroom
+            G-Classroom
           </a>
           <a id="pinfPDF" target="_blank" href="?print-pdf">
             View PDF
           </a>
         </div>
         <div class="cnMenuPopUpSection">
-          <p>Shortcuts</p>
-          <li>Pause: B</li>
-          <li>Notes: S</li>
-          <li>Zoom: ctrl/option + click</li>
+          <p><strong>Shortcuts</strong></p>
+          <p>Pause: B</p>
+          <p>Notes: S</p>
+          <p>Zoom: ctrl/option + click</p>
         </div>
       </div>
       <img
@@ -112,6 +113,7 @@
       Reveal.initialize({
         hash: true,
         history: true,
+        transitionSpeed: 'slow',
         dependencies: [
           {
             src: "reveal/plugin/markdown/marked.js",
