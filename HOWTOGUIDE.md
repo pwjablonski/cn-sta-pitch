@@ -40,7 +40,7 @@ To access the glitch project from your slide show simply click the glitch fish i
 
 Content for slides are written in a single markdown file called `SLIDES.md`.
 To edit your slide show's content open up the `SLIDES.md` file and click the `Markdown 👁️` button at the top of the file.
-Always forgetting markdown syntax? Here's a great [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) you can use.
+Forgot markdown syntax? Here's a great [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) you can use.
 
 - **New Slide** - Add `---` padded by two blank lines. This will tell reveal to make new slide
 - **Notes** - Anything written under `Note:` in a slide will be considered a note and will be hidden from view. You can still view notes in speaker view by pressing `S` on the keyboard.
