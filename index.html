@@ -17,7 +17,8 @@
     <link rel="stylesheet" href="reveal/css/reveal.css" />
     <link rel="stylesheet" href="reveal/css/theme/white.css" />
     <link rel="stylesheet" href="reveal/css/theme/codenation.css" />
-    <link rel="stylesheet" href="reveal/lib/css/glitch.css" /> <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="reveal/lib/css/glitch.css" />
+    <!-- Theme used for syntax highlighting of code -->
 
     <style>
       .cnMenuPopUp {
@@ -59,7 +60,6 @@
         background-repeat: no-repeat;
         background-size: 20px 20px;
       }
-
     </style>
   </head>
   <body>
@@ -110,10 +110,21 @@
       // - https://github.com/hakimel/reveal.js#dependencies
       Reveal.initialize({
         hash: true,
+        history: true,
         dependencies: [
-          { src: "reveal/plugin/markdown/marked.js" },
-          { src: "reveal/plugin/markdown/markdown.js" },
-          { src: "reveal/plugin/highlight/highlight.js" },
+          {
+            src: "reveal/plugin/markdown/marked.js",
+            condition: function() {
+              return !!document.querySelector("[data-markdown]");
+            }
+          },
+          {
+            src: "reveal/plugin/markdown/markdown.js",
+            condition: function() {
+              return !!document.querySelector("[data-markdown]");
+            }
+          },
+          { src: "reveal/plugin/highlight/highlight.js", async: true },
           { src: "reveal/plugin/notes/notes.js", async: true },
           { src: "reveal/plugin/zoom-js/zoom.js", async: true }
         ]
