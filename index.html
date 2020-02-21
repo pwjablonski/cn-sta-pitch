@@ -1,50 +1,157 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
 
-		<title>reveal.js</title>
+    <title>Code Nation</title>
+    <link
+      rel="shortcut icon"
+      type="image/png"
+      href="https://cdn.glitch.com/1b3d9304-305b-436e-bb33-a8bc46a8b5b0%2FCN_Logo_Black.png?v=1582310324947"
+    />
+    <link rel="stylesheet" href="reveal/css/reset.css" />
+    <link rel="stylesheet" href="reveal/css/reveal.css" />
+    <link rel="stylesheet" href="reveal/css/theme/white.css" />
+    <link rel="stylesheet" href="reveal/css/theme/codenation.css" />
+    <link rel="stylesheet" href="reveal/lib/css/glitch.css" />
 
-		<link rel="stylesheet" href="reveal/css/reset.css">
-		<link rel="stylesheet" href="reveal/css/reveal.css">
-		<link rel="stylesheet" href="reveal/css/theme/black.css">
+    <style>
+      .cnMenuPopUp {
+        background-color: #FFF;
+        border-radius: 5px;
+        border: 2px solid black;
+        box-shadow: 0px 0px 63px -13px rgba(0, 0, 0, 0.75);
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        bottom: 100%;
+        margin-bottom: 5px;
+        display: none;
+      }
 
-		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="reveal/lib/css/monokai.css">
+      .cnMenuPopUpSection {
+        padding: 15px;
+        border-bottom: 1px solid #9b9b9b;
+      }
 
-		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal/css/print/pdf.css' : 'reveal/css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
-	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
-			</div>
-		</div>
+      .cnMenuPopUpSection p {
+        margin-top: 0;
+        margin-bottom: 5px;
+      }
 
-		<script src="reveal/js/reveal.js"></script>
+      .cnMenuPopUpSection a {
+        font-family: Helvetica, Arial, sans-serif;
+        background-color: #fff;
+        border: 2px solid #000;
+        border-radius: 5px;
+        font-size: 14px;
+        font-weight: 700;
+        display: inline-block;
+        padding: 7px 36px 5px 10px;
+        text-decoration: none;
+        color: #000;
+        margin: 5px 0;
+        background-position: right 8px center;
+        background-repeat: no-repeat;
+        background-size: 20px 20px;
+      }
 
-		<script>
-			// More info about config & dependencies:
-			// - https://github.com/hakimel/reveal.js#configuration
-			// - https://github.com/hakimel/reveal.js#dependencies
-			Reveal.initialize({
-				hash: true,
-				dependencies: [
-					{ src: 'reveal/plugin/markdown/marked.js' },
-					{ src: 'reveal/plugin/markdown/markdown.js' },
-					{ src: 'reveal/plugin/highlight/highlight.js' },
-					{ src: 'reveal/plugin/notes/notes.js', async: true }
-				]
-			});
-		</script>
-	</body>
+      .cnLogo {
+        height: 50px;
+      }
+      strong {
+        color: #ffaa7b;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section
+          class="slides-data"
+          data-markdown="SLIDES.md"
+          data-separator-notes="^Note:"
+        ></section>
+      </div>
+    </div>
+    <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
+
+    <div class="cnMenu" style="position:fixed;bottom:20px;left:20px;">
+      <div class="cnMenuPopUp" style="display:none">
+        <div class="cnMenuPopUpSection">
+          <p>Actions</p>
+          <a
+            class="buttonLinks"
+            id="shareToClassroom"
+            href="https://classroom.google.com/"
+            target="_blank"
+          >
+            Share to classroom
+          </a>
+          <a id="pinfPDF" target="_blank" href="?print-pdf">
+            View PDF
+          </a>
+        </div>
+        <div class="cnMenuPopUpSection">
+          <p>Shortcuts</p>
+          <li>Pause: B</li>
+          <li>Notes: S</li>
+        </div>
+      </div>
+      <img
+        class="cnLogo"
+        src="https://cdn.glitch.com/2eb86eb7-97db-42e9-bb42-d8581c4a8778%2FCN_Logo_Black-08.png?v=1582148088486"
+      />
+    </div>
+
+    <script src="reveal/js/reveal.js"></script>
+
+    <script>
+      // More info about dependencies:
+      // - https://github.com/hakimel/reveal.js#dependencies
+      Reveal.initialize({
+        hash: true,
+        dependencies: [
+          { src: "reveal/plugin/markdown/marked.js" },
+          { src: "reveal/plugin/markdown/markdown.js" },
+          { src: "reveal/plugin/highlight/highlight.js" },
+          { src: "reveal/plugin/notes/notes.js", async: true },
+          { src: "reveal/plugin/zoom-js/zoom.js", async: true }
+        ]
+      });
+
+      // More info about config:
+      // - https://github.com/hakimel/reveal.js#configuration
+      Reveal.configure({ slideNumber: true, showSlideNumber: "print" });
+
+      // Printing and PDF exports
+      var link = document.createElement("link");
+      link.rel = "stylesheet";
+      link.type = "text/css";
+      link.href = window.location.search.match(/print-pdf/gi)
+        ? "reveal/css/print/pdf.css"
+        : "reveal/css/print/paper.css";
+      document.getElementsByTagName("head")[0].appendChild(link);
+
+      // google classroom
+      const BASE = "https://classroom.google.com/u/0/share?url=";
+      const classroomLink = document.getElementById("shareToClassroom");
+      classroomLink.href = BASE + window.location.href;
+
+      // click menu
+      const cnLogo = document.querySelector(".cnLogo");
+      const cnMenuPopUp = document.querySelector(".cnMenuPopUp");
+      cnLogo.addEventListener("click", function() {
+        if (cnMenuPopUp.style.display === "none") {
+          cnMenuPopUp.style.display = "block";
+        } else {
+          cnMenuPopUp.style.display = "none";
+        }
+      });
+    </script>
+  </body>
 </html>

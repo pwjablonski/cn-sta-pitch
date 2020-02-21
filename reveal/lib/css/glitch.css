@@ -1,0 +1,36 @@
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #FFF;
+  color: #222;
+}
+
+span.hljs-tag,
+span.hljs-selector-tag,
+span.hljs-keyword {
+  color: #00119e;
+  font-weight: bold;
+}
+
+span.hljs-selector-class{
+  font-style: italic;
+}
+
+.hljs-string {
+  color: #a2162d;
+}
+
+.hljs-number,
+.hljs-literal {
+  color: #15959c;
+}
+
+.hljs-attribute,
+.hljs-attr {
+  color: #9445b0;
+}
+
+.hljs-comment {
+  color: #898989;
+}
