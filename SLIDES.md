@@ -1,6 +1,7 @@
 # Lesson Title
 
-<!--.slide: data-background="https://cdn.glitch.com/2eb86eb7-97db-42e9-bb42-d8581c4a8778%2Fteal-city.png" -->
+<!--.slide: data-background="https://cdn.glitch.com/1b3d9304-305b-436e-bb33-a8bc46a8b5b0%2Fteal-city.png" -->
+<!-- %2 -->
 
 ---
 
