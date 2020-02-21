@@ -9,15 +9,15 @@ Each lesson plan is a self-contained repository including slides, and a lesson p
 
 ## Lesson Plan
 
-Open up the `README.md` file. The lesson plan will detail Teacher Prep, Resources, Potential Misconceptions
+Open up the `README.md` file. The lesson plan will detail Teacher Prep, Resources, as well as Potential Misconceptions
 
 ## Accessing the Slide Show
 
-To view the slide show from your glitch project page simply press the `🕶️show` button at the top of your screen. Then press `In a new window`. You're all set!
+To view the slide show from your glitch project page simply press the `🕶️show` button at the top of your screen. Then press `In a New Window`. You're all set!
 
-## Using the Slide Show
+## Navigating the Slide Show
 
-You've got this! Just use the key board arrows or the arrows in the bottom right corner to flip through the slides.
+Just use the key board arrows or the arrows in the bottom right corner to flip through the slides.
 The slide show also has some great presentation features you can take advantage of.
 
 - **Speaker Notes** - Press `S` on the Keyboard
@@ -43,10 +43,11 @@ To edit your slide show's content open up the `SLIDES.md` file and click the `Ma
 Always forgetting markdown syntax? Here's a great [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) you can use.
 
 - **New Slide** - Add `---` padded by two blank lines. This will tell reveal to make new slide
+- **Notes** - Anything written under `Note:` in a slide will be considered a note and will be hidden from view. You can still view notes in speaker view by pressing `S` on the keyboard.
 - **Background** - Within the slide add `<!-- .slide: data-background="#000" -->` This works for images and gifs!
-- **Fragment** - If you want to display elements on a slide sequentially next to the element add`<!-- .element: class="fragment" data-fragment-index="1" -->` 
+- **Fragment** - If you want to display elements on a slide sequentially next to the element add`<!-- .element: class="fragment" data-fragment-index="1" -->`
 - **Code Block** - And code you want to show include it between two sets of three backticks with the correct language type
 
-
 ## Advanced Reveal.js
+
 If you really really want to customize the slideshow settings please see [reveal.js documentation](https://github.com/hakimel/reveal.js/)
