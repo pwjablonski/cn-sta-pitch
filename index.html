@@ -1,90 +1,50 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
-    />
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-    <title>reveal.js</title>
+		<title>reveal.js</title>
 
-    <link rel="stylesheet" href="css/reset.css" />
-    <link rel="stylesheet" href="css/reveal.css" />
-    <link rel="stylesheet" href="css/theme/white.css" />
-    <link rel="stylesheet" href="lib/css/monokai.css" />
-    <link rel="stylesheet" href="glitch.css" />
-    <link rel="stylesheet" href="style.css" />
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
 
-    <!-- Printing and PDF exports -->
-    <script>
-      var link = document.createElement("link");
-      link.rel = "stylesheet";
-      link.type = "text/css";
-      link.href = window.location.search.match(/print-pdf/gi)
-        ? "css/print/pdf.css"
-        : "css/print/paper.css";
-      document.getElementsByTagName("head")[0].appendChild(link);
-    </script>
-  </head>
-  <body>
-    <div class="reveal">
-      <div class="slides">
-        <section
-          class="slides-data"
-          data-markdown="SLIDES.md"
-          data-separator="^\r?\n---\r?\n$"
-          data-separator-notes="^Note:"
-        ></section>
-      </div>
-    </div>
-    <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/monokai.css">
 
-    <div class="cnMenu" style="position:fixed;bottom:20px;left:20px;">
-      <div class="cnMenuPopUp" style="display:none">
-        <div class="cnMenuPopUpSection">
-          <p>Actions</p>
-          <a
-            class="buttonLinks"
-            id="shareToClassroom"
-            href="https://classroom.google.com/"
-            target="_blank"
-          >
-            Share to classroom
-          </a>
-          <a id="pinfPDF" target="_blank" href="?print-pdf">
-            View PDF
-          </a>
-        </div>
-        <div class="cnMenuPopUpSection">
-          <p>Shortcuts</p>
-          <li>Pause: B</li>
-          <li>Notes: S</li>
-        </div>
-      </div>
-      <img
-        class="cnLogo"
-        src="https://cdn.glitch.com/2eb86eb7-97db-42e9-bb42-d8581c4a8778%2FCN_Logo_Black-08.png?v=1582148088486"
-      />
-    </div>
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>Slide 1</section>
+				<section>Slide 2</section>
+			</div>
+		</div>
 
-    <script src="https://button.glitch.me/button.js"></script>
+		<script src="js/reveal.js"></script>
 
-    <script src="js/reveal.js"></script>
-
-    <script>
-      // More info about config & dependencies:
-      // - https://github.com/hakimel/reveal.js#configuration
-      // - https://github.com/hakimel/reveal.js#dependencies
-      Reveal.initialize({
-        hash: true,
-        dependencies: [
-          { src: "plugin/markdown/marked.js" },
-          { src: "plugin/markdown/markdown.js" },
-          { src: "plugin/highlight/highlight.js" },
-          { src: "plugin/notes/notes.js", async: true }
-        ]
-      });
-    </script>
-  </body>
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				hash: true,
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/highlight/highlight.js' },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+		</script>
+	</body>
 </html>
