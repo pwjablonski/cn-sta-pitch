@@ -1,7 +1,6 @@
 # Lesson Title
 
-<!--.slide: data-background="https://cdn.glitch.com/1b3d9304-305b-436e-bb33-a8bc46a8b5b0%2Fteal-city.png" -->
-<!-- %2 -->
+<!--.slide: data-background="https://cdn.glitch.com/1b3d9304-305b-436e-bb33-a8bc46a8b5b0/teal-city.png" -->
 
 ---
 
@@ -10,7 +9,7 @@
 - this is an objective
 
 Vocabulary: **word**, **word**, **word**
-Note: testing
+Note: These are some notes
 
 <!-- .slide: data-background="#000" -->
 

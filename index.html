@@ -84,7 +84,7 @@
             href="https://classroom.google.com/"
             target="_blank"
           >
-            Share to classroom
+            Google Classroom
           </a>
           <a id="pinfPDF" target="_blank" href="?print-pdf">
             View PDF
@@ -94,6 +94,7 @@
           <p>Shortcuts</p>
           <li>Pause: B</li>
           <li>Notes: S</li>
+          <li>Zoom: ctrl/option + click</li>
         </div>
       </div>
       <img
@@ -116,13 +117,13 @@
             src: "reveal/plugin/markdown/marked.js",
             condition: function() {
               return !!document.querySelector("[data-markdown]");
-            }
+            },
           },
           {
             src: "reveal/plugin/markdown/markdown.js",
             condition: function() {
               return !!document.querySelector("[data-markdown]");
-            }
+            },
           },
           { src: "reveal/plugin/highlight/highlight.js", async: true },
           { src: "reveal/plugin/notes/notes.js", async: true },
