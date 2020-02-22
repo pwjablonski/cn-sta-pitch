@@ -51,12 +51,21 @@ Forgot markdown syntax? Here's a great [Markdown Cheetsheet](https://github.com/
 ### Updating Project Links
 
 To update projects links open up the `lessonData.js` and edit data in the projects object.
-This will update the href for any link with a corresponding class in `SLIDES.md`
+This will update the href for any link or src for any ifram with a corresponding class in `SLIDES.md`
 
 - Updating url here...
   - `{ IP: "https://popcode.org"}`
 - will update all the links with the class `"IP"`
   - `<a target="_blank" class="IP">Independent Practice</a>`
+   - `<iframe class="IP"></iframe>`
+   
+### Controling Student Slides
+
+To control students slides we have to establish a socket between the student slides `students/index.html`
+and the master slides `index.html`. 
+1. Open lessonData.js
+2. Open go to [https://reveal-js-multiplex-ccjbegmaii.now.sh](https://reveal-js-multiplex-ccjbegmaii.now.sh) and generate a new token
+3. Update the `socketData` object with the `secret` and `id` you just generated
 
 ## Advanced Reveal.js
 
