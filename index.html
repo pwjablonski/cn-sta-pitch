@@ -134,8 +134,11 @@
         addPostProjectButtons();
       });
 
+      // Update title
+      document.getElementsByTagName("title")[0].text = lessonData.title;
+
       // Printing and PDF exports
-      var link = document.createElement("link");
+      const link = document.createElement("link");
       link.rel = "stylesheet";
       link.type = "text/css";
       link.href = window.location.search.match(/print-pdf/gi)
@@ -146,8 +149,7 @@
       // google classroom
       const BASE = "https://classroom.google.com/u/0/share?";
       const classroomLink = document.getElementById("shareToClassroom");
-      classroomLink.href = `${BASE}url=${window.location.href}&title=${lessonData.title}`;
-      console.log(classroomLink.href)
+      classroomLink.href = `${BASE}title=${lessonData.title} Slides&url=${window.location.href}`;
 
       // click menu
       const cnLogo = document.querySelector(".cnLogo");
@@ -178,13 +180,13 @@
       }
 
       function addPostProjectButtons() {
-        const BASE = "https://classroom.google.com/u/0/share?url=";
+        const BASE = "https://classroom.google.com/u/0/share?";
         const cnProjectsContainer = document.querySelector(
           ".cnProjectsContainer"
         );
         for (let key in lessonData.projects) {
           const link = document.createElement("a");
-          link.href = BASE + lessonData.projects[key];
+          link.href = `${BASE}title=${lessonData.title} ${key}&url=${lessonData.projects[key]}`;
           link.className = "buttonLinks";
           link.target = "_blank";
           link.text = key;
