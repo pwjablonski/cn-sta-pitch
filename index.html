@@ -97,6 +97,13 @@
           <a id="pinfPDF" target="_blank" href="?print-pdf">
             View PDF
           </a>
+          <a
+            class="buttonLinks"
+            href="/students"
+            target="_blank"
+          >
+            View Student Slides
+          </a>
         </div>
       </div>
       <img
@@ -148,7 +155,8 @@
           function addShareSlideToGClassroomButton() {
             const BASE = "https://classroom.google.com/u/0/share?";
             const classroomLink = document.getElementById("shareToClassroom");
-            classroomLink.href = `${BASE}title=${lessonData.title} Slides&url=${window.location.href}`;
+            console.log(window.location)
+            classroomLink.href = `${BASE}title=${lessonData.title} Slides&url=${window.location.origin}/students`;
           }
 
           // Goes through lesson data and updates slides with correct links
