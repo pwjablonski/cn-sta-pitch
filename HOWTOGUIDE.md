@@ -50,12 +50,11 @@ Forgot markdown syntax? Here's a great [Markdown Cheetsheet](https://github.com/
 
 ### Updating Project Links
 
-To update projects links open up the `lessonData.js`
-This will update the `href` for any link with a corresponding class in `SLIDES.md`
-I.E.
+To update projects links open up the `lessonData.js` and edit data in the projects object.
+This will update the data for any link with a corresponding class in `SLIDES.md`
 
 - Updating url here...
-  - `{ IP: "https://popcode.com"}`
+  - `{ IP: "https://popcode.org"}`
 - will update all the links with the class `"IP"`
   - `<a target="_blank" class="IP">Independent Practice</a>`
 

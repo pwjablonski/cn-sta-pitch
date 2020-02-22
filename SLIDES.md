@@ -42,8 +42,10 @@ This is a timer
 
 ## Links
 
-<a target="_blank" id="GP">Guided Practice</a>
-<a target="_blank" id="IP">Independent Practice</a>
+<a target="_blank" class="DN">Do Now</a>
+<a target="_blank" class="GP">Guided Practice</a>
+<a target="_blank" class="IP">Independent Practice</a>
+<a target="_blank" class="GP">Guided Practice</a>
 
 ---
 

@@ -137,7 +137,7 @@
         addShareSlideToGClassroomButton();
       });
 
-      function addShareSlideToGClassroomButton(){
+      function addShareSlideToGClassroomButton() {
         const BASE = "https://classroom.google.com/u/0/share?";
         const classroomLink = document.getElementById("shareToClassroom");
         classroomLink.href = `${BASE}title=${lessonData.title} Slides&url=${window.location.href}`;
@@ -146,9 +146,11 @@
       // Goes through lesson data and updates slides with correct links
       function addProjectLinksToSlides() {
         for (let key in lessonData.projects) {
-          const link = document.getElementById(key);
-          if (link) {
-            link.href = lessonData.projects[key];
+          const links = document.getElementsByClassName(key);
+          if (links) {
+            for (link of links) {
+              link.href = lessonData.projects[key];
+            }
           }
         }
       }
@@ -177,11 +179,11 @@
           : "reveal/css/print/paper.css";
         document.getElementsByTagName("head")[0].appendChild(link);
       }
-      
-      function updateSlidesTitle(){
+
+      function updateSlidesTitle() {
         document.getElementsByTagName("title")[0].text = lessonData.title;
       }
-      
+
       const cnLogo = document.querySelector(".cnLogo");
       const cnMenuPopUp = document.querySelector(".cnMenuPopUp");
       cnLogo.addEventListener("click", function(event) {
