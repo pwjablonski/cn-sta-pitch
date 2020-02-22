@@ -74,10 +74,16 @@
       // Goes through lesson data and updates slides with correct links
       function addResourceLinksToSlides() {
         for (let key in lessonData.resources) {
-          const links = document.getElementsByClassName(key);
-          if (links) {
-            for (link of links) {
-              link.href = lessonData.resources[key];
+          const elements = document.getElementsByClassName(key);
+          if (elements) {
+            for (element of elements) {
+              console.dir(element);
+              console.log(element.tagName);
+              if (element.tagName === "A") {
+                element.href = lessonData.resources[key];
+              } else if (element.tagName === "IFRAME") {
+                element.src = lessonData.resources[key];
+              }
             }
           }
         }

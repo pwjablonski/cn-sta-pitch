@@ -49,9 +49,7 @@ This is a timer
 
 ---
 
-## iframes
-
-<iframe target="_blank" class="GP"></iframe>
+<iframe target="_blank" class="GP" style="height:80vh;width:100vw"></iframe>
 
 ---
 
