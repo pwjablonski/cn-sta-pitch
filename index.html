@@ -118,9 +118,9 @@
             transitionSpeed: "slow",
             multiplex: {
               // Example values. To generate your own, see the socket.io server instructions.
-              secret: '15823830584203231343', // Obtained from the socket.io server. Gives this (the master) control of the presentation
-              id: 'b7f68999921608a1', // Obtained from socket.io server
-              url: 'https://reveal-js-multiplex-ccjbegmaii.now.sh' // Location of socket.io server
+              secret: lessonData.multiplex.secrect, // Obtained from the socket.io server. Gives this (the master) control of the presentation
+              id: lessonData.multiplex.id, // Obtained from socket.io server
+              url: lessonData.multiplex.url // Location of socket.io server
             },
             dependencies: [
               { src: "reveal/plugin/markdown/marked.js" },
@@ -130,7 +130,6 @@
               { src: "reveal/plugin/zoom-js/zoom.js", async: true },
               { src: '//cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js', async: true },
               { src: 'reveal/plugin/multiplex/master.js', async: true },
-              // { src: 'reveal/plugin/notes-server/client.js', async: true }
             ]
           });
 
