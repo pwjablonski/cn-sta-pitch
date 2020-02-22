@@ -51,7 +51,7 @@ Forgot markdown syntax? Here's a great [Markdown Cheetsheet](https://github.com/
 ### Updating Project Links
 
 To update projects links open up the `lessonData.js` and edit data in the projects object.
-This will update the data for any link with a corresponding class in `SLIDES.md`
+This will update the href for any link with a corresponding class in `SLIDES.md`
 
 - Updating url here...
   - `{ IP: "https://popcode.org"}`

@@ -87,7 +87,7 @@
           >
             Slides
           </a>
-          <div class="cnProjectsContainer"></div>
+          <div class="cnResourcesContainer"></div>
         </div>
         <div class="cnMenuPopUpSection actions">
           <p><strong>Actions</strong></p>
@@ -130,8 +130,8 @@
       Reveal.configure({ slideNumber: true, showSlideNumber: "print" });
 
       Reveal.addEventListener("ready", function(event) {
-        addProjectLinksToSlides();
-        addShareProjectToGClassroomButtons();
+        addResourceLinksToSlides();
+        addResourcesToGClassroomButtons();
         printPDF();
         updateSlidesTitle();
         addShareSlideToGClassroomButton();
@@ -144,29 +144,29 @@
       }
 
       // Goes through lesson data and updates slides with correct links
-      function addProjectLinksToSlides() {
-        for (let key in lessonData.projects) {
+      function addResourceLinksToSlides() {
+        for (let key in lessonData.resources) {
           const links = document.getElementsByClassName(key);
           if (links) {
             for (link of links) {
-              link.href = lessonData.projects[key];
+              link.href = lessonData.resources[key];
             }
           }
         }
       }
 
-      function addShareProjectToGClassroomButtons() {
+      function addResourcesToGClassroomButtons() {
         const BASE = "https://classroom.google.com/u/0/share?";
-        const cnProjectsContainer = document.querySelector(
-          ".cnProjectsContainer"
+        const cnResourcesContainer = document.querySelector(
+          ".cnResourcesContainer"
         );
-        for (let key in lessonData.projects) {
+        for (let key in lessonData.resources) {
           const link = document.createElement("a");
-          link.href = `${BASE}title=${lessonData.title} ${key}&url=${lessonData.projects[key]}`;
+          link.href = `${BASE}title=${lessonData.title} ${key}&url=${lessonData.resources[key]}`;
           link.className = "buttonLinks";
           link.target = "_blank";
           link.text = key;
-          cnProjectsContainer.appendChild(link);
+          cnResourcesContainer.appendChild(link);
         }
       }
 
