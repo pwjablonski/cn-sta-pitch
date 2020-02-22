@@ -114,20 +114,10 @@
       Reveal.initialize({
         hash: true,
         history: true,
-        transitionSpeed: 'slow',
+        transitionSpeed: "slow",
         dependencies: [
-          {
-            src: "reveal/plugin/markdown/marked.js",
-            condition: function() {
-              return !!document.querySelector("[data-markdown]");
-            },
-          },
-          {
-            src: "reveal/plugin/markdown/markdown.js",
-            condition: function() {
-              return !!document.querySelector("[data-markdown]");
-            },
-          },
+          { src: "reveal/plugin/markdown/marked.js" },
+          { src: "reveal/plugin/markdown/markdown.js" },
           { src: "reveal/plugin/highlight/highlight.js", async: true },
           { src: "reveal/plugin/notes/notes.js", async: true },
           { src: "reveal/plugin/zoom-js/zoom.js", async: true }
@@ -137,6 +127,10 @@
       // More info about config:
       // - https://github.com/hakimel/reveal.js#configuration
       Reveal.configure({ slideNumber: true, showSlideNumber: "print" });
+
+      Reveal.addEventListener("ready", function(event) {
+        addProjects();
+      });
 
       // Printing and PDF exports
       var link = document.createElement("link");
@@ -163,20 +157,19 @@
         }
         event.stopPropagation();
       });
-      
+
       document.addEventListener("click", function() {
         if (cnMenuPopUp.style.display === "block") {
           cnMenuPopUp.style.display = "none";
         }
       });
-      
-      for(let key in projects){
-        console.log(key)
-        let iframe = document.getElementsByID(key)
-        console.log(iframe)
-        iframe.src = projects[key]
-      }
 
+      function addProjects() {
+        for (let key in projects) {
+          let iframe = document.getElementById(key);
+          iframe.src = projects[key];
+        }
+      }
     </script>
   </body>
 </html>
