@@ -48,6 +48,17 @@ Forgot markdown syntax? Here's a great [Markdown Cheetsheet](https://github.com/
 - **Fragment** - If you want to display elements on a slide sequentially next to the element add`<!-- .element: class="fragment" data-fragment-index="1" -->`
 - **Code Block** - And code you want to show include it between two sets of three backticks with the correct language type
 
+### Updating Project Links
+
+To update projects links open up the `lessonData.js`
+This will update the `href` for any link with a corresponding class in `SLIDES.md`
+I.E.
+
+- Updating url here...
+  - `{ IP: "https://popcode.com"}`
+- will update all the links with the class `"IP"`
+  - `<a target="_blank" class="IP">Independent Practice</a>`
+
 ## Advanced Reveal.js
 
 If you really really want to customize the slideshow settings please see [reveal.js documentation](https://github.com/hakimel/reveal.js/)
