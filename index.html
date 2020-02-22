@@ -155,17 +155,22 @@
           function addShareSlideToGClassroomButton() {
             const BASE = "https://classroom.google.com/u/0/share?";
             const classroomLink = document.getElementById("shareToClassroom");
-            console.log(window.location)
             classroomLink.href = `${BASE}title=${lessonData.title} Slides&url=${window.location.origin}/students`;
           }
 
           // Goes through lesson data and updates slides with correct links
           function addResourceLinksToSlides() {
             for (let key in lessonData.resources) {
-              const links = document.getElementsByClassName(key);
-              if (links) {
-                for (link of links) {
-                  link.href = lessonData.resources[key];
+              const elements = document.getElementsByClassName(key);
+              if (elements) {
+                for (element of elements) {
+                  console.dir(element)
+                  console.log(element.tagName)
+                  if(elements.tagName === "A"){
+                    element.href = lessonData.resources[key];
+                  } else if(elements.tagName === "IFRAME"){
+                    element.href = lessonData.resources[key];   
+                  }
                 }
               }
             }

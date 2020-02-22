@@ -49,6 +49,12 @@ This is a timer
 
 ---
 
+## iframes
+
+<iframe target="_blank" class="GP"></iframe>
+
+---
+
 ## Decoration
 
 **bold**
