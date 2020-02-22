@@ -6,8 +6,10 @@ const lessonData = {
     IP: "https://www.w3schools.com/"
   },
   multiplex: {
-    secret: '15823830584203231343',
-    id: 'b7f68999921608a1',
+    // secret: '{15823830584203231343}',
+    // id: '{id}',
+    // To have control over students' slides go to the below url and uncomment and update the above fields
+    // To turn off comment out the above two fields
     url: 'https://reveal-js-multiplex-ccjbegmaii.now.sh'
   },
 };
