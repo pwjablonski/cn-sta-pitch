@@ -110,96 +110,105 @@
     <script src="https://button.glitch.me/button.js"></script>
     <script src="lessonData.js"></script>
     <script>
-      // More info about dependencies:
-      // - https://github.com/hakimel/reveal.js#dependencies
-      Reveal.initialize({
-        hash: true,
-        history: true,
-        transitionSpeed: "slow",
-        dependencies: [
-          { src: "reveal/plugin/markdown/marked.js" },
-          { src: "reveal/plugin/markdown/markdown.js" },
-          { src: "reveal/plugin/highlight/highlight.js", async: true },
-          { src: "reveal/plugin/notes/notes.js", async: true },
-          { src: "reveal/plugin/zoom-js/zoom.js", async: true }
-        ]
-      });
+          // More info about dependencies:
+          // - https://github.com/hakimel/reveal.js#dependencies
+          Reveal.initialize({
+            hash: true,
+            history: true,
+            transitionSpeed: "slow",
+            multiplex: {
+              // Example values. To generate your own, see the socket.io server instructions.
+              secret: '15823830584203231343', // Obtained from the socket.io server. Gives this (the master) control of the presentation
+              id: 'b7f68999921608a1', // Obtained from socket.io server
+              url: 'https://reveal-js-multiplex-ccjbegmaii.now.sh' // Location of socket.io server
+            },
+            dependencies: [
+              { src: "reveal/plugin/markdown/marked.js" },
+              { src: "reveal/plugin/markdown/markdown.js" },
+              { src: "reveal/plugin/highlight/highlight.js", async: true },
+              { src: "reveal/plugin/notes/notes.js", async: true },
+              { src: "reveal/plugin/zoom-js/zoom.js", async: true },
+              { src: '//cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js', async: true },
+              { src: 'reveal/plugin/multiplex/master.js', async: true },
+              // { src: 'reveal/plugin/notes-server/client.js', async: true }
+            ]
+          });
 
-      // More info about config:
-      // - https://github.com/hakimel/reveal.js#configuration
-      Reveal.configure({ slideNumber: true, showSlideNumber: "print" });
+          // More info about config:
+          // - https://github.com/hakimel/reveal.js#configuration
+          Reveal.configure({ slideNumber: true, showSlideNumber: "print" });
 
-      Reveal.addEventListener("ready", function(event) {
-        addResourceLinksToSlides();
-        addResourcesToGClassroomButtons();
-        printPDF();
-        updateSlidesTitle();
-        addShareSlideToGClassroomButton();
-      });
+          Reveal.addEventListener("ready", function(event) {
+            addResourceLinksToSlides();
+            addResourcesToGClassroomButtons();
+            printPDF();
+            updateSlidesTitle();
+            addShareSlideToGClassroomButton();
+          });
 
-      function addShareSlideToGClassroomButton() {
-        const BASE = "https://classroom.google.com/u/0/share?";
-        const classroomLink = document.getElementById("shareToClassroom");
-        classroomLink.href = `${BASE}title=${lessonData.title} Slides&url=${window.location.href}`;
-      }
+          function addShareSlideToGClassroomButton() {
+            const BASE = "https://classroom.google.com/u/0/share?";
+            const classroomLink = document.getElementById("shareToClassroom");
+            classroomLink.href = `${BASE}title=${lessonData.title} Slides&url=${window.location.href}`;
+          }
 
-      // Goes through lesson data and updates slides with correct links
-      function addResourceLinksToSlides() {
-        for (let key in lessonData.resources) {
-          const links = document.getElementsByClassName(key);
-          if (links) {
-            for (link of links) {
-              link.href = lessonData.resources[key];
+          // Goes through lesson data and updates slides with correct links
+          function addResourceLinksToSlides() {
+            for (let key in lessonData.resources) {
+              const links = document.getElementsByClassName(key);
+              if (links) {
+                for (link of links) {
+                  link.href = lessonData.resources[key];
+                }
+              }
             }
           }
-        }
-      }
 
-      function addResourcesToGClassroomButtons() {
-        const BASE = "https://classroom.google.com/u/0/share?";
-        const cnResourcesContainer = document.querySelector(
-          ".cnResourcesContainer"
-        );
-        for (let key in lessonData.resources) {
-          const link = document.createElement("a");
-          link.href = `${BASE}title=${lessonData.title} ${key}&url=${lessonData.resources[key]}`;
-          link.className = "buttonLinks";
-          link.target = "_blank";
-          link.text = key;
-          cnResourcesContainer.appendChild(link);
-        }
-      }
+          function addResourcesToGClassroomButtons() {
+            const BASE = "https://classroom.google.com/u/0/share?";
+            const cnResourcesContainer = document.querySelector(
+              ".cnResourcesContainer"
+            );
+            for (let key in lessonData.resources) {
+              const link = document.createElement("a");
+              link.href = `${BASE}title=${lessonData.title} ${key}&url=${lessonData.resources[key]}`;
+              link.className = "buttonLinks";
+              link.target = "_blank";
+              link.text = key;
+              cnResourcesContainer.appendChild(link);
+            }
+          }
 
-      function printPDF() {
-        const link = document.createElement("link");
-        link.rel = "stylesheet";
-        link.type = "text/css";
-        link.href = window.location.search.match(/print-pdf/gi)
-          ? "reveal/css/print/pdf.css"
-          : "reveal/css/print/paper.css";
-        document.getElementsByTagName("head")[0].appendChild(link);
-      }
+          function printPDF() {
+            const link = document.createElement("link");
+            link.rel = "stylesheet";
+            link.type = "text/css";
+            link.href = window.location.search.match(/print-pdf/gi)
+              ? "reveal/css/print/pdf.css"
+              : "reveal/css/print/paper.css";
+            document.getElementsByTagName("head")[0].appendChild(link);
+          }
 
-      function updateSlidesTitle() {
-        document.getElementsByTagName("title")[0].text = lessonData.title;
-      }
+          function updateSlidesTitle() {
+            document.getElementsByTagName("title")[0].text = lessonData.title;
+          }
 
-      const cnLogo = document.querySelector(".cnLogo");
-      const cnMenuPopUp = document.querySelector(".cnMenuPopUp");
-      cnLogo.addEventListener("click", function(event) {
-        if (cnMenuPopUp.style.display === "none") {
-          cnMenuPopUp.style.display = "block";
-        } else {
-          cnMenuPopUp.style.display = "none";
-        }
-        event.stopPropagation();
-      });
+          const cnLogo = document.querySelector(".cnLogo");
+          const cnMenuPopUp = document.querySelector(".cnMenuPopUp");
+          cnLogo.addEventListener("click", function(event) {
+            if (cnMenuPopUp.style.display === "none") {
+              cnMenuPopUp.style.display = "block";
+            } else {
+              cnMenuPopUp.style.display = "none";
+            }
+            event.stopPropagation();
+          });
 
-      document.addEventListener("click", function() {
-        if (cnMenuPopUp.style.display === "block") {
-          cnMenuPopUp.style.display = "none";
-        }
-      });
+          document.addEventListener("click", function() {
+            if (cnMenuPopUp.style.display === "block") {
+              cnMenuPopUp.style.display = "none";
+            }
+          });
     </script>
   </body>
 </html>

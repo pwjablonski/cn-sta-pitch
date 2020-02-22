@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="reveal/css/theme/codenation.css" />
     <link rel="stylesheet" href="reveal/lib/css/glitch.css" />
   </head>
-  
+
   <body>
     <div class="reveal">
       <div class="slides">
@@ -30,7 +30,7 @@
         ></section>
       </div>
     </div>
-    
+
     <script src="reveal/js/reveal.js"></script>
     <script src="lessonData.js"></script>
     <script>
@@ -40,12 +40,24 @@
         hash: true,
         history: true,
         transitionSpeed: "slow",
+        multiplex: {
+          // Example values. To generate your own, see the socket.io server instructions.
+          secret: null, // null so the clients do not have control of the master presentation
+          id: "b7f68999921608a1", // id, obtained from socket.io server
+          url: "https://reveal-js-multiplex-ccjbegmaii.now.sh" // Location of socket.io server
+        },
         dependencies: [
           { src: "reveal/plugin/markdown/marked.js" },
           { src: "reveal/plugin/markdown/markdown.js" },
           { src: "reveal/plugin/highlight/highlight.js", async: true },
           { src: "reveal/plugin/notes/notes.js", async: true },
-          { src: "reveal/plugin/zoom-js/zoom.js", async: true }
+          { src: "reveal/plugin/zoom-js/zoom.js", async: true },
+          {
+            src:
+              "//cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js",
+            async: true
+          },
+          { src: "reveal/plugin/multiplex/client.js", async: true }
         ]
       });
 
@@ -58,12 +70,6 @@
         printPDF();
         updateSlidesTitle();
       });
-
-      function addShareSlideToGClassroomButton() {
-        const BASE = "https://classroom.google.com/u/0/share?";
-        const classroomLink = document.getElementById("shareToClassroom");
-        classroomLink.href = `${BASE}title=${lessonData.title} Slides&url=${window.location.href}`;
-      }
 
       // Goes through lesson data and updates slides with correct links
       function addResourceLinksToSlides() {
