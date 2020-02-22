@@ -56,6 +56,7 @@
         text-decoration: none;
         color: #000;
         margin: 5px 0;
+        margin-right: 5px;
         background-position: right 8px center;
         background-repeat: no-repeat;
         background-size: 20px 20px;
@@ -86,6 +87,7 @@
           >
             Slides
           </a>
+          <div class="cnProjectsContainer"></div>
         </div>
         <div class="cnMenuPopUpSection actions">
           <p><strong>Actions</strong></p>
@@ -173,17 +175,19 @@
           }
         }
       }
-      
+
       function addPostProjectButtons() {
         const BASE = "https://classroom.google.com/u/0/share?url=";
-        const gClassroomSection = document.querySelector(".cnMenuPopUpSection.gClassroom");
+        const cnProjectsContainer = document.querySelector(
+          ".cnProjectsContainer"
+        );
         for (let key in lessonData.projects) {
           const link = document.createElement("a");
           link.href = BASE + lessonData.projects[key];
           link.className = "buttonLinks";
           link.target = "_blank";
           link.text = key;
-          gClassroomSection.appendChild(link);
+          cnProjectsContainer.appendChild(link);
         }
       }
     </script>
