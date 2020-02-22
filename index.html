@@ -107,6 +107,7 @@
 
     <script src="reveal/js/reveal.js"></script>
     <script src="https://button.glitch.me/button.js"></script>
+    <script src="projects.js"></script>
     <script>
       // More info about dependencies:
       // - https://github.com/hakimel/reveal.js#dependencies
@@ -168,6 +169,13 @@
           cnMenuPopUp.style.display = "none";
         }
       });
+      
+      for(let key in projects){
+        console.log(key)
+        let iframe = document.getElementsByID(key)
+        console.log(iframe)
+        iframe.src = projects[key]
+      }
 
     </script>
   </body>
