@@ -144,9 +144,10 @@
       document.getElementsByTagName("head")[0].appendChild(link);
 
       // google classroom
-      const BASE = "https://classroom.google.com/u/0/share?url=";
+      const BASE = "https://classroom.google.com/u/0/share?";
       const classroomLink = document.getElementById("shareToClassroom");
-      classroomLink.href = BASE + window.location.href;
+      classroomLink.href = `${BASE}url=${window.location.href}&title=${lessonData.title}`;
+      console.log(classroomLink.href)
 
       // click menu
       const cnLogo = document.querySelector(".cnLogo");
