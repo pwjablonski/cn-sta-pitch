@@ -42,7 +42,7 @@ This is a timer
 
 ## Links
 
-<a target="_blank" id="guidedPractice">Guided Practice</a>
+<a target="_blank" id="GP">Guided Practice</a>
 
 ---
 

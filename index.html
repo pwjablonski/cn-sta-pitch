@@ -52,7 +52,7 @@
         font-size: 14px;
         font-weight: 700;
         display: inline-block;
-        padding: 7px 36px 5px 10px;
+        padding: 7px 10px 5px 10px;
         text-decoration: none;
         color: #000;
         margin: 5px 0;
@@ -84,7 +84,7 @@
             href="https://classroom.google.com/"
             target="_blank"
           >
-            Post Slides
+            Slides
           </a>
         </div>
         <div class="cnMenuPopUpSection actions">
@@ -129,6 +129,7 @@
 
       Reveal.addEventListener("ready", function(event) {
         addProjects();
+        addPostProjectButtons();
       });
 
       // Printing and PDF exports
@@ -174,13 +175,15 @@
       }
       
       function addPostProjectButtons() {
+        const BASE = "https://classroom.google.com/u/0/share?url=";
         const gClassroomSection = document.querySelector(".cnMenuPopUpSection.gClassroom");
         for (let key in lessonData.projects) {
           const link = document.createElement("a");
-          link.href = lessonData.projects[key];
+          link.href = BASE + lessonData.projects[key];
           link.className = "buttonLinks";
-          link.text(`Post ${key}`)
-          gClassroomSection.appendChild(link)
+          link.target = "_blank";
+          link.text = key;
+          gClassroomSection.appendChild(link);
         }
       }
     </script>
