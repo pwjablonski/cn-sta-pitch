@@ -101,3 +101,7 @@ function draw() {
 ---
 
 <iframe id="doNow" style="height: 80vh; width: 100%;" ></iframe>
+
+---
+
+<iframe id="guidedPractice" style="height: 80vh; width: 100%;" ></iframe>
