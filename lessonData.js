@@ -11,7 +11,7 @@ const lessonData = {
 // To have control over students' slides go to the below url and uncomment and update the secrect and id fields
 // To turn off slide control comment out the above two fields
 const socketData = {
-  secret: process.env.REVEAL_SOCKET_SECRET,
-  id: process.env.REVEAL_SOCKET_ID,
-  url: process.env.REVEAL_SOCKET_URL
+  secret: '1582385019786650895',
+  id: '487a61a29d2b29fc',
+  url: 'https://reveal-js-multiplex-ccjbegmaii.now.sh'
 }
