@@ -118,9 +118,9 @@
             transitionSpeed: "slow",
             multiplex: {
               // Example values. To generate your own, see the socket.io server instructions.
-              secret: lessonData.multiplex.secret, // Obtained from the socket.io server. Gives this (the master) control of the presentation
-              id: lessonData.multiplex.id, // Obtained from socket.io server
-              url: lessonData.multiplex.url // Location of socket.io server
+              secret: socketData.secret, // Obtained from the socket.io server. Gives this (the master) control of the presentation
+              id: socketData.id, // Obtained from socket.io server
+              url: socketData.url // Location of socket.io server
             },
             dependencies: [
               { src: "reveal/plugin/markdown/marked.js" },

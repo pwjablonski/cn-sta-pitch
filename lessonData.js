@@ -5,11 +5,13 @@ const lessonData = {
     GP: "https://glitch.com/edit/#!/p5js-startercode?path=README.md:1:0",
     IP: "https://www.w3schools.com/"
   },
-  multiplex: {
-    // secret: '{15823830584203231343}',
-    // id: '{id}',
-    // To have control over students' slides go to the below url and uncomment and update the above fields
-    // To turn off comment out the above two fields
-    url: 'https://reveal-js-multiplex-ccjbegmaii.now.sh'
-  },
 };
+
+
+// To have control over students' slides go to the below url and uncomment and update the secrect and id fields
+// To turn off slide control comment out the above two fields
+const socketData = {
+  // secret: '{secret}',
+  // id: '{id}',
+  url: 'https://reveal-js-multiplex-ccjbegmaii.now.sh'
+}
