@@ -43,6 +43,7 @@ This is a timer
 ## Links
 
 <a target="_blank" id="GP">Guided Practice</a>
+<a target="_blank" id="IP">Independent Practice</a>
 
 ---
 
@@ -85,15 +86,3 @@ function draw() {
 ---
 
 <!-- .slide: data-background="https://media3.giphy.com/media/5Zesu5VPNGJlm/source.gif" -->
-
----
-
-<!-- Copy and Paste Me -->
-<div class="glitch-embed-wrap" style="height: 80vh; width: 100%;">
-  <iframe
-    src="https://glitch.com/embed/#!/embed/p5js-startercode?path=README.md&previewSize=0"
-    title="p5js-startercode on Glitch"
-    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
-    style="height: 100%; width: 100%; border: 0;">
-  </iframe>
-</div>

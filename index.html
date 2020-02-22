@@ -130,28 +130,58 @@
       Reveal.configure({ slideNumber: true, showSlideNumber: "print" });
 
       Reveal.addEventListener("ready", function(event) {
-        addProjects();
-        addPostProjectButtons();
+        addProjectLinksToSlides();
+        addShareProjectToGClassroomButtons();
+        printPDF();
+        updateSlidesTitle();
+        addShareSlideToGClassroomButton();
       });
 
-      // Update title
-      document.getElementsByTagName("title")[0].text = lessonData.title;
+      function addShareSlideToGClassroomButton(){
+        const BASE = "https://classroom.google.com/u/0/share?";
+        const classroomLink = document.getElementById("shareToClassroom");
+        classroomLink.href = `${BASE}title=${lessonData.title} Slides&url=${window.location.href}`;
+      }
 
-      // Printing and PDF exports
-      const link = document.createElement("link");
-      link.rel = "stylesheet";
-      link.type = "text/css";
-      link.href = window.location.search.match(/print-pdf/gi)
-        ? "reveal/css/print/pdf.css"
-        : "reveal/css/print/paper.css";
-      document.getElementsByTagName("head")[0].appendChild(link);
+      // Goes through lesson data and updates slides with correct links
+      function addProjectLinksToSlides() {
+        for (let key in lessonData.projects) {
+          const link = document.getElementById(key);
+          if (link) {
+            link.href = lessonData.projects[key];
+          }
+        }
+      }
 
-      // google classroom
-      const BASE = "https://classroom.google.com/u/0/share?";
-      const classroomLink = document.getElementById("shareToClassroom");
-      classroomLink.href = `${BASE}title=${lessonData.title} Slides&url=${window.location.href}`;
+      function addShareProjectToGClassroomButtons() {
+        const BASE = "https://classroom.google.com/u/0/share?";
+        const cnProjectsContainer = document.querySelector(
+          ".cnProjectsContainer"
+        );
+        for (let key in lessonData.projects) {
+          const link = document.createElement("a");
+          link.href = `${BASE}title=${lessonData.title} ${key}&url=${lessonData.projects[key]}`;
+          link.className = "buttonLinks";
+          link.target = "_blank";
+          link.text = key;
+          cnProjectsContainer.appendChild(link);
+        }
+      }
 
-      // click menu
+      function printPDF() {
+        const link = document.createElement("link");
+        link.rel = "stylesheet";
+        link.type = "text/css";
+        link.href = window.location.search.match(/print-pdf/gi)
+          ? "reveal/css/print/pdf.css"
+          : "reveal/css/print/paper.css";
+        document.getElementsByTagName("head")[0].appendChild(link);
+      }
+      
+      function updateSlidesTitle(){
+        document.getElementsByTagName("title")[0].text = lessonData.title;
+      }
+      
       const cnLogo = document.querySelector(".cnLogo");
       const cnMenuPopUp = document.querySelector(".cnMenuPopUp");
       cnLogo.addEventListener("click", function(event) {
@@ -168,31 +198,6 @@
           cnMenuPopUp.style.display = "none";
         }
       });
-
-      // Goes through lesson data and updates slides with correct links
-      function addProjects() {
-        for (let key in lessonData.projects) {
-          const link = document.getElementById(key);
-          if (link) {
-            link.href = lessonData.projects[key];
-          }
-        }
-      }
-
-      function addPostProjectButtons() {
-        const BASE = "https://classroom.google.com/u/0/share?";
-        const cnProjectsContainer = document.querySelector(
-          ".cnProjectsContainer"
-        );
-        for (let key in lessonData.projects) {
-          const link = document.createElement("a");
-          link.href = `${BASE}title=${lessonData.title} ${key}&url=${lessonData.projects[key]}`;
-          link.className = "buttonLinks";
-          link.target = "_blank";
-          link.text = key;
-          cnProjectsContainer.appendChild(link);
-        }
-      }
     </script>
   </body>
 </html>
