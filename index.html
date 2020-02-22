@@ -18,7 +18,6 @@
     <link rel="stylesheet" href="reveal/css/theme/white.css" />
     <link rel="stylesheet" href="reveal/css/theme/codenation.css" />
     <link rel="stylesheet" href="reveal/lib/css/glitch.css" />
-    <!-- Theme used for syntax highlighting of code -->
 
     <style>
       .cnMenuPopUp {
@@ -77,25 +76,25 @@
 
     <div class="cnMenu" style="position:fixed;bottom:20px;left:20px;">
       <div class="cnMenuPopUp" style="display:none">
-        <div class="cnMenuPopUpSection">
-          <p><strong>Actions</strong></p>
+        <div class="cnMenuPopUpSection gClassroom">
+          <p><strong>G Classroom</strong></p>
           <a
             class="buttonLinks"
             id="shareToClassroom"
             href="https://classroom.google.com/"
             target="_blank"
           >
-            G-Classroom
-          </a>
-          <a id="pinfPDF" target="_blank" href="?print-pdf">
-            View PDF
+            Post Slides
           </a>
         </div>
-        <div class="cnMenuPopUpSection">
-          <p><strong>Shortcuts</strong></p>
+        <div class="cnMenuPopUpSection actions">
+          <p><strong>Actions</strong></p>
           <p>Pause: B</p>
           <p>Notes: S</p>
           <p>Zoom: ctrl/option + click</p>
+          <a id="pinfPDF" target="_blank" href="?print-pdf">
+            View PDF
+          </a>
         </div>
       </div>
       <img
@@ -164,13 +163,24 @@
         }
       });
 
+      // Goes through lesson data and updates slides with correct links
       function addProjects() {
         for (let key in lessonData.projects) {
-          console.log(key);
           const link = document.getElementById(key);
           if (link) {
             link.href = lessonData.projects[key];
           }
+        }
+      }
+      
+      function addPostProjectButtons() {
+        const gClassroomSection = document.querySelector(".cnMenuPopUpSection.gClassroom");
+        for (let key in lessonData.projects) {
+          const link = document.createElement("a");
+          link.href = lessonData.projects[key];
+          link.className = "buttonLinks";
+          link.text(`Post ${key}`)
+          gClassroomSection.appendChild(link)
         }
       }
     </script>
