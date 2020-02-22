@@ -42,7 +42,7 @@ This is a timer
 
 ## Links
 
-<a target="_blank" href="https://glitch.com/edit/#!/p5js-startercode?path=README.md:1:0">Guided Practice</a>
+<a target="_blank" id="guidedPractice">Guided Practice</a>
 
 ---
 
@@ -97,11 +97,3 @@ function draw() {
     style="height: 100%; width: 100%; border: 0;">
   </iframe>
 </div>
-
----
-
-<iframe id="doNow" style="height: 80vh; width: 100%;" ></iframe>
-
----
-
-<iframe id="guidedPractice" style="height: 80vh; width: 100%;" ></iframe>

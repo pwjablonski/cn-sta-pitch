@@ -107,7 +107,7 @@
 
     <script src="reveal/js/reveal.js"></script>
     <script src="https://button.glitch.me/button.js"></script>
-    <script src="projects.js"></script>
+    <script src="lessonData.js"></script>
     <script>
       // More info about dependencies:
       // - https://github.com/hakimel/reveal.js#dependencies
@@ -165,9 +165,12 @@
       });
 
       function addProjects() {
-        for (let key in projects) {
-          let iframe = document.getElementById(key);
-          iframe.src = projects[key];
+        for (let key in lessonData.projects) {
+          console.log(key);
+          const link = document.getElementById(key);
+          if (link) {
+            link.href = lessonData.projects[key];
+          }
         }
       }
     </script>
