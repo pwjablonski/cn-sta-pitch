@@ -5,12 +5,13 @@ your lesson before delivering.
 
 1. **Remix the project!**
 2. Rename this project something that makes a bit more sense i.e. "STA-Lesson-Title"
-3. Read through the `README.md` plan thouroughly
+3. Read through the `README.md` thouroughly
 4. Open up the slides `🕶️Show` and read through the slides and notes
     - Male sure to open up and review all coding samples
-    - If using a remixed verision of an exercise make sure to update in the url in `lessonData.js`
+    - If using a remixed verision of an exercise make sure to update the url in `lessonData.js`
 5. When you are ready, post the student facing slides and lesson resources to google classroom
 via the Actions Panel in the bottom left hand corner
+6. Practice, Practice, Practice!
 
 ## Overview
 Objectives *coders will be able to*
