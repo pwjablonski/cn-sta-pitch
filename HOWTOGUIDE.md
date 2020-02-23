@@ -1,15 +1,18 @@
 # 📘 CN Lesson How To Guide 📘
 
-This page will give you a brief overview of how to access, navigate, edit and share your CN Lesson
-
-## Overview
-
+This page will give you a brief overview of how to access, navigate, edit and share your CN Lesson.
 CN Lesson Plans are made using [glitch](https://glitch.com/) and [reveal.js](https://github.com/hakimel/reveal.js/).
 Each lesson plan is a self-contained repository including slides, and a lesson plan
 
-## Lesson Plan
+# Lesson Prep
+1. **Remix the project!**
+2. Rename this project something that makes a bit more sense i.e. "STA-Lesson-Title"
+3. Read through the lesson plan `README.md`
+4. Open up the slides `🕶️Show` and read through the slides and notes
+  - Male sure to open up and review all coding samples
+  - If using a remixed verision of an exercise make sure to update in the url in `lessonData.js`
+5. When you are ready, post the slides to google classroom via the CN Actions Panel in the bottom right hand corner
 
-Open up the `README.md` file. The lesson plan will detail Teacher Prep, Resources, as well as Potential Misconceptions
 
 ## Accessing the Slide Show
 
