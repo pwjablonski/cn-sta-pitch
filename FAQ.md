@@ -4,34 +4,25 @@ This page will give you a brief overview of how to access, navigate, edit and sh
 CN Lesson Plans are made using [glitch](https://glitch.com/) and [reveal.js](https://github.com/hakimel/reveal.js/).
 Each lesson plan is a self-contained repository including slides, and a lesson plan
 
-# Lesson Prep
-1. **Remix the project!**
-2. Rename this project something that makes a bit more sense i.e. "STA-Lesson-Title"
-3. Read through the lesson plan `README.md`
-4. Open up the slides `🕶️Show` and read through the slides and notes
-  - Male sure to open up and review all coding samples
-  - If using a remixed verision of an exercise make sure to update in the url in `lessonData.js`
-5. When you are ready, post the slides to google classroom via the CN Actions Panel in the bottom right hand corner
+## How do I access the master slide show from my glitch project?
+To view the slide show from your glitch project page simply press the `🕶️show` button at the top of your screen.
+Then press `In a New Window`. You're all set!
 
+## How do I access the student facing slide show from my glitch project?
+To access student facing slide show you can go to `yourprojectname.glitch.me/students`.
 
-## Accessing the Slide Show
-
-To view the slide show from your glitch project page simply press the `🕶️show` button at the top of your screen. Then press `In a New Window`. You're all set!
-
-## Navigating the Slide Show
-
-Just use the key board arrows or the arrows in the bottom right corner to flip through the slides.
+## What else can I slide do on a slide show?
 The slides also have some great presentation features you can take advantage of.
 
 - **Speaker Notes** - Press `S` on the Keyboard
 - **Pause** - Press `B`on the Keyboard
 - **Zoom** - Press `ctrl` on PC or `option` on Mac and click where you would like to Zoom
 
-## CN Actions
+## How do I share materials with my classroom?
 
-To access the CN Actions simply click on the CN logo in the bottom left corner of any page.
+simply click on the CN logo in the bottom left corner of any page.
 
-- **Share to Classroom** - This will open Google Classrooms sharing interface and will aumatically attach the current slide show's URL
+- **G Classroom** - This will open Google Classrooms sharing interface and will aumatically attach the current slide show's URL
 - **Print PDF** - This will open up a new window with a printer friendly version of the slide show
 
 ## Glitch Features
