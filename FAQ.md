@@ -5,32 +5,40 @@ CN Lesson Plans are made using [glitch](https://glitch.com/) and [reveal.js](htt
 Each lesson plan is a self-contained repository including slides, and a lesson plan
 
 ## How do I access the master slide show from my glitch project?
-To view the slide show from your glitch project page simply press the `🕶️show` button at the top of your screen.
+To view the master slide show from your glitch project page simply press the `🕶️show` button at the top of your screen.
 Then press `In a New Window`. You're all set!
 
 ## How do I access the student facing slide show from my glitch project?
 To access student facing slide show you can go to `yourprojectname.glitch.me/students`.
 
-## What else can I slide do on a slide show?
+## What features doe my slide show have?
 The slides also have some great presentation features you can take advantage of.
 
 - **Speaker Notes** - Press `S` on the Keyboard
 - **Pause** - Press `B`on the Keyboard
 - **Zoom** - Press `ctrl` on PC or `option` on Mac and click where you would like to Zoom
+- **Print PDF** - From the actions panel click `View PDF`. This will open up a new window with a printer friendly version of the slide show
 
-## How do I share materials with my classroom?
+## How do I share lesson materials with my classroom?
 
-simply click on the CN logo in the bottom left corner of any page.
+Simply click on the CN logo in the bottom left corner of any page to open the actions panel.
+You will be able share directly t0 Google Classrooms and aumatically attach the resource URL
+You can share...
 
-- **G Classroom** - This will open Google Classrooms sharing interface and will aumatically attach the current slide show's URL
-- **Print PDF** - This will open up a new window with a printer friendly version of the slide show
+- **Student Facing Slides** - Attaches the student facing slides at `yourprojectname.glitch.me/students`.
+- **Lesson Reources** - Attaches the reources url listed in `lessonData.js`
 
-## Glitch Features
+## Can I share my lesson with my team to colaberate?
+Yes! To share the lesson with you team click the `Share` button in the top left corner. 
+Copy the link under `Invite others to edit` and share the link with your teammates. Alternatively you can add the project
+to a team you are all a part of. 
+
+## What else can I do with glitch?
 
 As you can probably already tell each lesson is its very own glitch project. What this means is we can view the source, remix/edit your own verision!
 To access the glitch project from your slide show simply click the glitch fish icon 🎏 in the top right corner of the page!
 
-## Editing Your Slide Show
+## How do I edit my slides?
 
 Content for slides are written in a single markdown file called `SLIDES.md`.
 To edit your slide show's content open up the `SLIDES.md` file and click the `Markdown 👁️` button at the top of the file.
