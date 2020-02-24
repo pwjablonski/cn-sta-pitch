@@ -3,7 +3,8 @@ const lessonData = {
   resources: {
     DN: "https://popcode.org/?snapshot=9ca51617-da4e-4e43-baea-22e799857ab8",
     GP: "https://glitch.com/edit/#!/p5js-startercode?path=README.md:1:0",
-    IP: "https://www.w3schools.com/"
+    IP: "https://www.w3schools.com/",
+    EXIT: "https://docs.google.com/forms/d/1yoGBfM8LKrnuOXse22mljJY3x8fyHvexHBv_PTz_se4"
   },
 };
 
