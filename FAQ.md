@@ -29,7 +29,6 @@ Open the actions panel. You will be able share resources directly to Google Clas
 You can share...
 
 - **Student Facing Slides** - Attaches the student facing slides at `yourprojectname.glitch.me/students`.
-- **Lesson Resources** - Attaches the resources url listed in `lessonData.js`
 
 ## Can I share glitch project with my team to collaborate?
 

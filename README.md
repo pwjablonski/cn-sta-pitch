@@ -26,7 +26,6 @@ Vocabulary
 ## Lesson Specific Prep
 
 ## Resources
-Open up `lessonData.js` to see links to any resources, links, starter code.
 
 ## Potential Misconceptions
 
