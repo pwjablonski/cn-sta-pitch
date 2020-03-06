@@ -153,7 +153,8 @@
       function addShareSlideToGClassroomButton() {
         const BASE = "https://classroom.google.com/u/0/share?";
         const classroomLink = document.getElementById("shareToClassroom");
-        classroomLink.href = `${BASE}url=${window.location.origin}/students`;
+        const title = window.location.host.split(".")[0];
+        classroomLink.href = `${BASE}title=${title}&url=${window.location.origin}/students`;
       }
 
       function printPDF() {
