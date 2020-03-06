@@ -42,14 +42,11 @@ This is a timer
 
 ## Links
 
-<a target="_blank" class="DN">Do Now</a>
-<a target="_blank" class="GP">Guided Practice</a>
-<a target="_blank" class="IP">Independent Practice</a>
-<a target="_blank" class="GP">Guided Practice</a>
+<a target="_blank" src="https://glitch.com/edit/#!/p5js-startercode?path=README.md:1:0">Guided Practice</a>
 
 ---
 
-<iframe target="_blank" class="GP" style="height:80vh;width:100vw"></iframe>
+<iframe target="_blank" src="https://glitch.com/edit/#!/p5js-startercode?path=README.md:1:0" style="height:80vh;width:100vw"></iframe>
 
 ---
 

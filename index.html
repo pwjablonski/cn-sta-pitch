@@ -111,8 +111,14 @@
 
     <script src="reveal/js/reveal.js"></script>
     <script src="https://button.glitch.me/button.js"></script>
-    <script src="lessonData.js"></script>
     <script>
+      // To have control over students' slides go to the below url and uncomment and update the secrect and id fields
+      // To turn off slide control comment out the secret and id fields
+      const socketData = {
+        // secret: '{secret}',
+        // id: '{id}',
+        url: 'https://reveal-js-multiplex-ccjbegmaii.now.sh'
+      }
       // More info about dependencies:
       // - https://github.com/hakimel/reveal.js#dependencies
       Reveal.initialize({
@@ -145,50 +151,14 @@
       Reveal.configure({ slideNumber: true, showSlideNumber: "print" });
 
       Reveal.addEventListener("ready", function(event) {
-        addResourceLinksToSlides();
-        addResourcesToGClassroomButtons();
         printPDF();
-        updateSlidesTitle();
         addShareSlideToGClassroomButton();
       });
 
       function addShareSlideToGClassroomButton() {
         const BASE = "https://classroom.google.com/u/0/share?";
         const classroomLink = document.getElementById("shareToClassroom");
-        classroomLink.href = `${BASE}title=${lessonData.title} Slides&url=${window.location.origin}/students`;
-      }
-
-      // Goes through lesson data and updates slides with correct links
-      function addResourceLinksToSlides() {
-        for (let key in lessonData.resources) {
-          const elements = document.getElementsByClassName(key);
-          if (elements) {
-            for (element of elements) {
-              console.dir(element);
-              console.log(element.tagName);
-              if (element.tagName === "A") {
-                element.href = lessonData.resources[key];
-              } else if (element.tagName === "IFRAME") {
-                element.src = lessonData.resources[key];
-              }
-            }
-          }
-        }
-      }
-
-      function addResourcesToGClassroomButtons() {
-        const BASE = "https://classroom.google.com/u/0/share?";
-        const cnResourcesContainer = document.querySelector(
-          ".cnResourcesContainer"
-        );
-        for (let key in lessonData.resources) {
-          const link = document.createElement("a");
-          link.href = `${BASE}title=${lessonData.title} ${key}&url=${lessonData.resources[key]}`;
-          link.className = "buttonLinks";
-          link.target = "_blank";
-          link.text = key;
-          cnResourcesContainer.appendChild(link);
-        }
+        classroomLink.href = `${BASE}url=${window.location.origin}/students`;
       }
 
       function printPDF() {
@@ -199,10 +169,6 @@
           ? "reveal/css/print/pdf.css"
           : "reveal/css/print/paper.css";
         document.getElementsByTagName("head")[0].appendChild(link);
-      }
-
-      function updateSlidesTitle() {
-        document.getElementsByTagName("title")[0].text = lessonData.title;
       }
 
       const cnLogo = document.querySelector(".cnLogo");
