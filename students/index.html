@@ -32,7 +32,7 @@
     </div>
 
     <script src="../reveal/js/reveal.js"></script>
-    <script src="../lessonData.js"></script>
+    <script src="./socketData.js"></script>
     <script>
       // More info about dependencies:
       // - https://github.com/hakimel/reveal.js#dependencies
@@ -71,24 +71,6 @@
         updateSlidesTitle();
       });
 
-      // Goes through lesson data and updates slides with correct links
-      function addResourceLinksToSlides() {
-        for (let key in lessonData.resources) {
-          const elements = document.getElementsByClassName(key);
-          if (elements) {
-            for (element of elements) {
-              console.dir(element);
-              console.log(element.tagName);
-              if (element.tagName === "A") {
-                element.href = lessonData.resources[key];
-              } else if (element.tagName === "IFRAME") {
-                element.src = lessonData.resources[key];
-              }
-            }
-          }
-        }
-      }
-
       function printPDF() {
         const link = document.createElement("link");
         link.rel = "stylesheet";
@@ -99,9 +81,6 @@
         document.getElementsByTagName("head")[0].appendChild(link);
       }
 
-      function updateSlidesTitle() {
-        document.getElementsByTagName("title")[0].text = lessonData.title;
-      }
     </script>
   </body>
 </html>

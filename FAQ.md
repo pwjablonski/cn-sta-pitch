@@ -57,23 +57,12 @@ Here are some additional reveal.js specific syntax for editing slides.
 - **Fragment** - If you want to display elements on a slide sequentially next to the element add`<!-- .element: class="fragment" data-fragment-index="1" -->`
 - **Code Block** - And code you want to show include it between two sets of three backticks with the correct language type
 
-### How do I update links to external resources?
-
-To update projects links open up the `lessonData.js` and edit data in the resources object.
-This will update the href for any link or src for any iframe with a corresponding class in `SLIDES.md`
-
-- Updating url here...
-  - `{ IP: "https://popcode.org"}`
-- will update all the links with the class `"IP"`
-  - `<a target="_blank" class="IP">Independent Practice</a>`
-  - `<iframe class="IP"></iframe>`
-
 ### Can I sync student slides to mirror the instructor slides?
 
 To control students slides we have to establish a socket between the student facing slides
 and the instructor slides.
 
-1. Open lessonData.js
+1. Open index.html.js
 2. Open go to [https://reveal-js-multiplex-ccjbegmaii.now.sh](https://reveal-js-multiplex-ccjbegmaii.now.sh) and generate a new token
 3. Update the `socketData` object with the `secret` and `id` you just generated
 
