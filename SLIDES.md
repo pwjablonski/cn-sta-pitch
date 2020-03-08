@@ -74,6 +74,7 @@ _italics_
 
 ```javascript
 function draw() {
+  // Defined a variable called `a`
   var a = "b";
 }
 ```

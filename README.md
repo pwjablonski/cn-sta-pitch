@@ -7,7 +7,7 @@ your lesson before delivering.
 2. Rename this project something that makes a bit more sense i.e. "STA-Lesson-Title"
 3. Read through the `README.md` thouroughly
 4. Open up the slides `🕶️Show` and read through the slides and notes
-    - Male sure to open up and review all coding samples
+    - Make sure to open up and review all coding samples
     - If using a remixed verision of an exercise make sure to update the lesson urls
 5. When you are ready, post the student facing slides to google classroom
 via the Actions Panel in the bottom left hand corner

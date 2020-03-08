@@ -61,7 +61,7 @@ Here are some additional reveal.js specific syntax for editing slides.
 To control students slides we have to establish a socket between the student facing slides
 and the instructor slides.
 
-1. Open index.html.js
+1. Open `students/scoketData.js`
 2. Open go to [https://reveal-js-multiplex-ccjbegmaii.now.sh](https://reveal-js-multiplex-ccjbegmaii.now.sh) and generate a new token
 3. Update the `socketData` object with the `secret` and `id` you just generated
 
