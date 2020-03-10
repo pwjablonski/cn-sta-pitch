@@ -8,7 +8,6 @@
 
 ![alt text](https://media.vanityfair.com/photos/57d1f0fc5475d07256a8b2d9/master/w_1600%2Cc_limit/taylor-swift-britney-spears-i-dont-know-her-04.gif)
 
-
 ---
 
 ### Coders will be able to...
