@@ -97,42 +97,46 @@ Monday| Tuesday | Wednesday | Thursday
 Challenge and company client revealed! | Lesson #3| Team Work Time | Presentation Prep
 Lessons #1 + #2 | Team work time | Trip! | MINI SHOWCASE!
 Team Worktime | SYEP | SYEP 
-| Tech Discussion| SYEP | SYEP
+| Tech Discussion| SYEP | SYEP 
 
 
 ![alt text](https://codenation.org/wp-content/uploads/2018/09/hero-home.png)
 
 ---
 
-<!-- .slide: data-background="#fee975" -->
+###### Sample Schedule: Incubator
 
-## Code
+Monday| Tuesday | Wednesday | Thursday | Friday
+--- | --- | --- | --- | ---
+Challenge and company client revealed! | Tech Workship #3| Team Work Time | Team Worktime | Presentation Prep
+Tech workshops #1 + #2 | Team work time | Trip! | Professional Skills Workshop | MINI SHOWCASE!
+Team Worktime | Ethics in Tech Discussion | 
+| Tech Discussion| SYEP | SYEP
 
-```javascript
-function draw() {
-  // Defined a variable called `a`
-  var a = "b";
-}
-```
+
+
 
 ---
+
+
+### Field Trips!
+
+..*  Chance for students to visit the "client" companies their project is based around
+..*  Students will see what it's like to work at an actual tech company
+..*  Will be engaged in a hands-on tech activity while at company
+..*  Learn about different tech careers in "career stations" activity
 
 <!-- .slide: data-background="#00FECD" -->
 
-## End
-
-\ ゜ o ゜)ノ
 
 ---
 
+
+
 <!-- .slide: data-background="https://media3.giphy.com/media/5Zesu5VPNGJlm/source.gif" -->
 
-- Hook
-- Synopsis
-- Bootcamp vs Incubator 
-- Sample Schedule
-- Field Trips 
-- Weekly / Daily
+
+
 - Skills
    - Technical ()
    - Workplace Readiness Skills (networking, interviewing, teamwork, project planning)
