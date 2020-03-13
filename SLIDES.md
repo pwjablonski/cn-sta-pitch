@@ -56,19 +56,30 @@ Students will become excited by the possibilites in the tech world by engaging w
 
 ---
 
-## Two Programs, Twice the Impact
+### Two Programs, Twice the Impact
 
 
 The Bootcamp | The Etsy Incubator
 --- | --- 
-Curriculum based on p5 | Curriculum based on p5
-Will include field trips to company "clients" | Will include field trips to company clients
-Students will work in groups extensively and present projects in mini showcases weekly | Students will work in groups extensively and present projects in mini showcases weekly 
-Paid | Paid 
-For students 14-15 | For students 16 and older
-Takes place at the Van Arsdale Education Campus | Takes place at Etsy
-Will feature professional skills training from SYEP | Will feature professional skills workshops provided by Code Nation
-Will culminate with an SYEP-wide showcase | Will culminate with a showcase
+Curriculum based on p5 | Curriculum based on p5 |
+Will include field trips to company "clients" | Will include field trips to company clients |
+Students will work in groups extensively and present projects in mini showcases weekly | Students will work in groups extensively and present projects in mini showcases weekly |
+
+
+
+<!-- .slide: data-background="#00D4FD" -->
+
+
+---
+
+### Two Programs, Twice the Impact
+
+The Bootcamp | The Etsy Incubator
+--- | --- 
+For students 14-15 | For students 16 and older |
+Takes place at the Van Arsdale Education Campus | Takes place at Etsy |
+Will feature professional skills training from SYEP | Will feature professional skills workshops provided by Code Nation |
+Will culminate with an SYEP-wide showcase | Will culminate with a showcase |
 
     
 
@@ -79,7 +90,15 @@ Will culminate with an SYEP-wide showcase | Will culminate with a showcase
 
 ---
 
-## Images
+## Sample Schedule: Bootcamp
+
+Monday| Tuesday | Wednesday | 
+--- | --- 
+For students 14-15 | For students 16 and older |
+Takes place at the Van Arsdale Education Campus | Takes place at Etsy |
+Will feature professional skills training from SYEP | Will feature professional skills workshops provided by Code Nation |
+Will culminate with an SYEP-wide showcase | Will culminate with a showcase |
+
 
 ![alt text](https://codenation.org/wp-content/uploads/2018/09/hero-home.png)
 
