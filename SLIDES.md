@@ -40,13 +40,19 @@ to design for some of the world's best tech companies and...the future
 
 ---
 
-## Links
+### Premise 
 
-<a target="_blank" src="https://glitch.com/edit/#!/p5js-startercode?path=README.md:1:0">Guided Practice</a>
+Modeled after popular reality shows like Rhythm and Flow, The Voice, and Next in Fashion, each week students will:
+
+1. Be given a challenge based on a company client.
+2. Work in teams to create a stunning web design product by the end of the week.
+3. Present their work in a mini-showcase each week all culminating in a final showcase at the end of the summer.
 
 ---
 
-<iframe target="_blank" src="https://glitch.com/edit/#!/p5js-startercode?path=README.md:1:0" style="height:80vh;width:100vw"></iframe>
+### Premise
+
+Goal: students will hone their cod
 
 ---
 
