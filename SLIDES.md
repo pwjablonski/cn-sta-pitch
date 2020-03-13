@@ -50,9 +50,9 @@ Modeled after popular reality shows like Rhythm and Flow, The Voice, and Next in
 
 ---
 
-### Premise
+### Goal
 
-Goal: students will hone their cod
+Student will spend the summer working on exciting and creative projects. In the process, they will not only hone their technical skills, but will also delve deep into the role and ethics of the tech world and how they fit into it.
 
 ---
 
