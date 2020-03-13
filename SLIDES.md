@@ -79,7 +79,7 @@ The Bootcamp | The Etsy Incubator
 For students 14-15 | For students 16 and older |
 Takes place at the Van Arsdale Education Campus | Takes place at Etsy |
 Will feature professional skills training from SYEP | Will feature professional skills workshops provided by Code Nation |
-Will culminate with an SYEP-wide showcase | Will culminate with a showcase |
+Culminates with an SYEP-wide showcase | Culminates with a showcase |
 
     
 
@@ -90,14 +90,14 @@ Will culminate with an SYEP-wide showcase | Will culminate with a showcase |
 
 ---
 
-## Sample Schedule: Bootcamp
+###### Sample Schedule: Bootcamp
 
-Monday| Tuesday | Wednesday | 
---- | --- 
-For students 14-15 | For students 16 and older |
-Takes place at the Van Arsdale Education Campus | Takes place at Etsy |
-Will feature professional skills training from SYEP | Will feature professional skills workshops provided by Code Nation |
-Will culminate with an SYEP-wide showcase | Will culminate with a showcase |
+Monday| Tuesday | Wednesday | Thursday
+--- | --- | --- | ---
+Challenge and company client revealed! | Lesson #3| Team Work Time | Presentation Prep
+Lessons #1 + #2 | Team work time | Trip! | MINI SHOWCASE!
+Team Worktime | SYEP | SYEP 
+| Tech Discussion| SYEP | SYEP
 
 
 ![alt text](https://codenation.org/wp-content/uploads/2018/09/hero-home.png)
