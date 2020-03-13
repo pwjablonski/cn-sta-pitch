@@ -121,20 +121,36 @@ Team Worktime | Ethics in Tech Discussion |
 
 ### Field Trips!
 
-..*  Chance for students to visit the "client" companies their project is based around
-..*  Students will see what it's like to work at an actual tech company
-..*  Will be engaged in a hands-on tech activity while at company
-..*  Learn about different tech careers in "career stations" activity
+ *  Chance for students to visit the "client" companies their project is based around
+ *  Students will see what it's like to work at an actual tech company
+ *  Will be engaged in a hands-on tech activity while at company
+ *  Learn about different tech careers in "career stations" activity
 
 <!-- .slide: data-background="#00FECD" -->
 
 
 ---
 
+### What skills are students gaining?
+
+  * Technical (p5, JavaScript, use of an Glitch IDE, Github)
+  * Workplace readiness skills (teamwork, project planning, workshops on networking, interviewing, resume writin and more)
+  * Digital Citizenship (discussions about inequity in tech; tech, ethics, and social responsibility; tech and social justice)
 
 
-<!-- .slide: data-background="https://media3.giphy.com/media/5Zesu5VPNGJlm/source.gif" -->
 
+
+---
+
+### Example Projects
+
+
+---
+
+### Feedback: Glows and Grows
+
+
+---
 
 
 - Skills
