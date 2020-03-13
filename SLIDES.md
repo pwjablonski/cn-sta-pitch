@@ -5,38 +5,17 @@
 
 ---
 
-- Hook
-- Synopsis
-- Bootcamp vs Incubator 
-- Sample Schedule
-- Field Trips 
-- Weekly / Daily
-- Skills
-   -Technical 
-   -Workplace Readiness Skills (networking, interviewing, )
-   -Digital Citizenship ()
-- Example projects
-- Glows and Grows
-
-IMPACTS OF SOCIETY 1, 2   
-COMPUTING ETHICS 3, 4, 5
- ACCESSIBILITY 6
-CAREER PATHS 7
-COMPUTATIONAL MODELING AND SIMULATION 1
-THINKING DATA ANALYSIS AND VISUALIZATION 2, 3
-ABSTRACTION AND DECOMPOSITION 4, 5 
-ALGORITHMS 6, 7, 8 PROGRAMMING 9, 10, 11, 12
- NETWORKS AND HARDWARE AND SOFTWARE 1, 2, 3 
-SYSTEMS DESIGN NETWORKS AND THE INTERNET 4, 5
-SAFEGUARDS 2, 3, 4 
- RESPONSE 5
-DIGITAL LITERACY DIGITAL USE 1, 2, 3, 4
-DIGITAL CITIZENSHIP 5, 6
-
-
 ## Images
 
 ![alt text](https://media.vanityfair.com/photos/57d1f0fc5475d07256a8b2d9/master/w_1600%2Cc_limit/taylor-swift-britney-spears-i-dont-know-her-04.gif)
+
+---
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ---
 
@@ -127,3 +106,15 @@ function draw() {
 
 <!-- .slide: data-background="https://media3.giphy.com/media/5Zesu5VPNGJlm/source.gif" -->
 
+- Hook
+- Synopsis
+- Bootcamp vs Incubator 
+- Sample Schedule
+- Field Trips 
+- Weekly / Daily
+- Skills
+   - Technical ()
+   - Workplace Readiness Skills (networking, interviewing, teamwork, project planning)
+   - Digital Citizenship ()
+- Example projects
+- Glows and Grows
