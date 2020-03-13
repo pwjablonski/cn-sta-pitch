@@ -52,7 +52,7 @@ Modeled after popular reality shows like Rhythm and Flow, The Voice, and Next in
 
 ### Goal
 
-Student will spend the summer working on exciting and creative projects. In the process, they will not only hone their technical skills, but will also delve deep into the role and ethics of the tech world and how they fit into it.
+Students will become excited by the possibilites in the tech world by engaging with their peers to create exciting projects, and engaging with actual tech companies and professionals. In addition to developing new technical skills, students will also delve deep into the thought-provoking discussions about the tech industry, and thus be inspired 
 
 ---
 
