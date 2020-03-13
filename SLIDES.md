@@ -5,52 +5,37 @@
 
 ---
 
-## Images
+## Technology is changing the world around us...
 
-![alt text](https://media.vanityfair.com/photos/57d1f0fc5475d07256a8b2d9/master/w_1600%2Cc_limit/taylor-swift-britney-spears-i-dont-know-her-04.gif)
-
----
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+It's time for our youth to take the lead in shaping it.
 
 ---
 
-### Coders will be able to...
+### 4 
+weeks
 
-- this is an objective
 
-Vocabulary: **word**, **word**, **word**
-Note: These are some notes
-
-<!-- .slide: data-background="#000" -->
 
 ---
 
-This is a timer
+### 60
+of the best young coders NYC has to offer
 
-<a target="_blank" href="https://www.youtube.com/embed/ipvJHuKa-Ic">Timer </a>
 
-<!-- .slide: data-background="#E2A6EB" -->
-
----
-
-## Lists
-
-1. item 1 <!-- .element: class="fragment" data-fragment-index="1" -->
-2. item 2 <!-- .element: class="fragment" data-fragment-index="2" -->
-3. item 3 <!-- .element: class="fragment" data-fragment-index="3" -->
-   <!-- .slide: data-background="#0080ff" -->
 
 ---
 
-## Bullets
+### 1 mission
 
-- bullets
-- bullets
+to design for some of the world's best tech companies and...the future
+
+---
+
+###  This is Code Nation's 
+
+## THE CODE OFF
+
+
   <!-- .slide: data-background="#FFA67D" -->
 
 ---
