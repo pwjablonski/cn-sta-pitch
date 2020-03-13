@@ -89,8 +89,6 @@ Students will become excited by the possibilites in the tech world by engaging w
 | Tech Discussion                        | SYEP           | SYEP           |
 
 ![alt text](https://codenation.org/wp-content/uploads/2018/09/hero-home.png)
-<!-- .slide: data-width="2000" -->
-
 
 ---
 
