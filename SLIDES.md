@@ -52,17 +52,18 @@ Modeled after popular reality shows like Rhythm and Flow, The Voice, and Next in
 
 ### Goal
 
-Students will become excited by the possibilites in the tech world by engaging with their peers to create exciting projects, and engaging with actual tech companies and professionals. In addition to developing new technical skills, students will also delve deep into the thought-provoking discussions about the tech industry, and thus be inspired 
+Students will become excited by the possibilites in the tech world by engaging with their peers to create exciting projects, and engaging with actual tech companies and professionals. In addition to developing new technical skills, students will also delve deep into thought-provoking discussions about the tech industry, and thus be inspired to be active agents who can affect change within it.
 
 ---
 
-## Decoration
+## Two Programs, Twice the Impact
 
-**bold**
-~~strike thorough~~
-_italics_
 
-> Blockquotes are very handy in email to emulate reply text.
+The Bootcamp | 
+    
+
+
+
 
 <!-- .slide: data-background="#00D4FD" -->
 
