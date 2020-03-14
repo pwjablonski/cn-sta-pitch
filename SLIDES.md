@@ -75,6 +75,7 @@ Students will become excited by the possibilites in the tech world by engaging w
 | Will feature professional skills training from SYEP | Will feature professional skills workshops provided by Code Nation |
 | Culminates with an SYEP-wide showcase               | Culminates with a showcase                                         |
 
+<!-- .element: style="font-size: .8em" -->
 <!-- .slide: data-background="#00D4FD" -->
 
 ---
@@ -88,6 +89,8 @@ Students will become excited by the possibilites in the tech world by engaging w
 | Team Worktime                          | SYEP           | SYEP           |
 | Tech Discussion                        | SYEP           | SYEP           |
 
+<!-- .element: style="font-size: .5em" -->
+
 ---
 
 ###### Sample Schedule: Incubator
@@ -99,7 +102,7 @@ Students will become excited by the possibilites in the tech world by engaging w
 | Team Worktime                          | Ethics in Tech Discussion |
 | Tech Discussion                        | SYEP                      | SYEP           |
 
-<!-- .slide: class="ninety" -->
+<!-- .element: style="font-size: .5em" -->
 
 ---
 
