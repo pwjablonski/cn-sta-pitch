@@ -88,8 +88,6 @@ Students will become excited by the possibilites in the tech world by engaging w
 | Team Worktime                          | SYEP           | SYEP           |
 | Tech Discussion                        | SYEP           | SYEP           |
 
-![alt text](https://codenation.org/wp-content/uploads/2018/09/hero-home.png)
-
 ---
 
 ###### Sample Schedule: Incubator
@@ -136,3 +134,5 @@ Students will become excited by the possibilites in the tech world by engaging w
   - Digital Citizenship ()
 - Example projects
 - Glows and Grows
+
+![alt text](https://codenation.org/wp-content/uploads/2018/09/hero-home.png)
