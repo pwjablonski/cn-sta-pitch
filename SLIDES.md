@@ -99,6 +99,8 @@ Students will become excited by the possibilites in the tech world by engaging w
 | Team Worktime                          | Ethics in Tech Discussion |
 | Tech Discussion                        | SYEP                      | SYEP           |
 
+<!-- .slide: class="ninety" -->
+
 ---
 
 ### Field Trips!
