@@ -37,6 +37,7 @@ to design for some of the world's best tech companies... and the future.
 
 ## THE CODE OFF
 
+![alt text](https://crello.com/design/5e6e2e502b9a3824edf5a5f2-48327-logo-500x500-px/)
 <!-- .slide: data-background="#FFA67D" -->
 
 ---
