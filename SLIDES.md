@@ -34,12 +34,12 @@ to design for some of the world's best tech companies... and the future.
 
 # Get hypecited!
 
-
 ---
 
 ### This is Code Nation's...
 
 ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(2).png?v=1584283545880>)
+
 <!-- .element: class="fragment"-->
 
 <!-- .slide: data-background="#17d3ff" -->
@@ -73,7 +73,7 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 ### Two Programs, Twice the Impact
 
-| The Bootcamp                                                                           | The Incubator                                                                     |
+| The Bootcamp                                                                           | The Incubator                                                                          |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | Curriculum based on p5                                                                 | Curriculum based on p5                                                                 |
 | Will include field trips to company "clients"                                          | Will include field trips to company clients                                            |
@@ -99,12 +99,12 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 ###### Sample Schedule: Bootcamp
 
-| Monday                                 | Tuesday        | Wednesday      | Thursday          |
-| -------------------------------------- | -------------- | -------------- | ----------------- |
-| Challenge and company client revealed! | Lesson #3      | Team Work Time | Presentation Prep |
-| Lessons #1 + #2                        | Team work time | Trip!          | MINI SHOWCASE!    |
-| Team Worktime                          | SYEP           | SYEP           | SYEP              |
-| Tech Discussion                        |                |                |                   |
+| Monday                                 | Tuesday           | Wednesday      | Thursday          |
+| -------------------------------------- | ----------------- | -------------- | ----------------- |
+| Challenge and company client revealed! | Tech Workshops #3 | Team Work Time | Presentation Prep |
+| Tech Workshops #1 + #2                 | Team work time    | Trip!          | MINI SHOWCASE!    |
+| Team Worktime                          | SYEP              | SYEP           | SYEP              |
+| Tech Discussion                        |                   |                |                   |
 | SYEP                                   |
 
 <!-- .element: style="font-size: .5em" -->
@@ -116,7 +116,7 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 | Monday                                 | Tuesday                   | Wednesday      | Thursday                     | Friday            |
 | -------------------------------------- | ------------------------- | -------------- | ---------------------------- | ----------------- |
 | Challenge and company client revealed! | Tech Workshop #3          | Team Work Time | Team Worktime                | Presentation Prep |
-| Tech workshops #1 + #2                 | Team work time            | Trip!          | Professional Skills Workshop | MINI SHOWCASE!    |
+| Tech Workshops #1 + #2                 | Team work time            | Trip!          | Professional Skills Workshop | MINI SHOWCASE!    |
 | Team Worktime                          | Ethics in Tech Discussion |                |                              |                   |
 | Tech Discussion                        |                           |                |                              |                   |
 
@@ -132,9 +132,9 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 - Learn about different tech careers in "career stations" activity
 
 Note:
-I think this is kind of dry, but i am not sure what else to add, especially since we don't know exactly who the partners will be. 
+I think this is kind of dry, but i am not sure what else to add, especially since we don't know exactly who the partners will be.
 I have to step away for a bit but I'll go through and leave notes or small changes!
-cool! thanks for looking it thru today. i know its a sunday and its the last thing anyone wants to be doing! 
+cool! thanks for looking it thru today. i know its a sunday and its the last thing anyone wants to be doing!
 You did great work! Not at all! hahah xie xie! you too!
 aww shi shi (i cant write pinyin) enjoy your day!
 
@@ -157,6 +157,5 @@ aww shi shi (i cant write pinyin) enjoy your day!
 ---
 
 ### Feedback: Glows and Grows
-
 
 ---
