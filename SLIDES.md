@@ -32,6 +32,11 @@ to design for some of the world's best tech companies... and the future.
 
 ---
 
+# Get hypecited!
+
+
+---
+
 ### This is Code Nation's...
 
 ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(2).png?v=1584283545880>)
@@ -121,9 +126,9 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 ### Field Trips!
 
-- Chance for students to visit the "client" companies their project is based around
-- Students will see what it's like to work at an actual tech company
-- Will be engaged in a hands-on tech activity while at company
+- Visit the "client" companies their project is based around
+- See what it's like to work at an actual tech company
+- Engage in a hands-on tech activity
 - Learn about different tech careers in "career stations" activity
 
 Note:
