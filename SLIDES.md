@@ -35,7 +35,7 @@ to design for some of the world's best tech companies... and the future.
 
 ### This is Code Nation's
 
-![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(1).png?v=1584281662116)
+![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(2).png?v=1584283545880)
 <!-- .slide: data-background="#17d3ff" -->
 
 ---
@@ -70,6 +70,20 @@ How should we be thinking about this?
 no, thats a good point...hmmm. i guess we should just stick with the summer tech academy...i guess that makes the most sense ...especially since 
 someone from syep expressed that they liked the name 
 Summer Tech Academy?
+dammnit i keep messing up formatting...but yes, summer tech academy. i will say i do think incubator sounds really weird. but i guess
+we cant call it an internship
+
+Haha yeah I think of baby chicks with incubator
+But yeah the first slide with the reveal should have Code Nation's Summer Tech Academy at some point
+
+Either Code Nation's Summer Tech Academy or Summer Tech Academy's The Code Off
+
+But I do really like The Code Off I just don't want folks to be confused with all the names
+
+youre totally right. there are a lot of names going on. i feel like some of them are more like, internal and im not even sure yet which will
+be student facing. but i like, i mean i like both. i guess CN would prefer for branding the first one you suggested 
+
+Okay I'll noodle on this a bit
 
 ---
 
@@ -78,8 +92,23 @@ Summer Tech Academy?
 
 ---
 
+---
+
+---
+
 ### Goal
 
+Through working on exciting projects with their peers and getting to interact with leading tech companies, students will leave the Summer Tech Academy inspired to take part in all the tech world has to offer.  Students will also delve deep into thought-provoking discussions about the tech industry, and thus be inspired to be active agents who can affect change within it.
+
+Note:
+
+Looking good! - I think a stronger word then enthusiatic
+Could we a have a slide before this that has a like maybe three words that convey what we are driving towards sounds good
+And use this a  more detailed explanation
+ie. joy, hypecited, exploration, creation
+haha hypecited
+ yep i can add that
+haha I think 
 
 ---
 
