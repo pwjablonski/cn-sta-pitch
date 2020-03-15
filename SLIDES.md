@@ -37,24 +37,31 @@ to design for some of the world's best tech companies... and the future.
 
 
 
-![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px.png?v=1584281258072)
+![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(1).png?v=1584281662116)
 <!-- .slide: data-background="#17d3ff" -->
 
 ---
 
-### Premise
-
-Modeled after popular reality shows like Rhythm and Flow, The Voice, and Next in Fashion, each week students will:
-
+###### Premise
+hi peter!
+Hi!
+does the goal as its written sound too clunky? because i think it does 
+For the goal it think insstead of student will we can start with "To excite"
+Modeled after popular reality shows like *Rhythm and Flow*, *The Voice*, and *Next in Fashion*, each week students will:
 1. Be given a challenge based on a company client.
 2. Work in teams to create a stunning web design product by the end of the week.
 3. Present their work in a mini-showcase each week all culminating in a final showcase at the end of the summer.
 
 ---
 
+![alt text](https://media.giphy.com/media/MXjcLtU32AML6xAGeu/giphy.gif)
+<!-- .slide: data-background="#17d3ff" -->
+
+---
+
 ### Goal
 
-Students will become excited by the possibilites in the tech world by engaging with their peers to create exciting projects, and engaging with actual tech companies and professionals. In addition to developing new technical skills, students will also delve deep into thought-provoking discussions about the tech industry, and thus be inspired to be active agents who can affect change within it.
+To excite by the possibilites in the tech world by engaging with their peers to create exciting projects, and engaging with actual tech companies and professionals. In addition to developing new technical skills, students will also delve deep into thought-provoking discussions about the tech industry, and thus be inspired to be active agents who can affect change within it.
 
 ---
 
