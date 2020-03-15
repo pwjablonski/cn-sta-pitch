@@ -35,10 +35,10 @@ to design for some of the world's best tech companies... and the future.
 
 ### This is Code Nation's
 
-## THE CODE OFF
 
-![alt text](https://crello.com/design/5e6e2e502b9a3824edf5a5f2-48327-logo-500x500-px/)
-<!-- .slide: data-background="#FFA67D" -->
+
+![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px.png?v=1584281258072)
+<!-- .slide: data-background="#17d3ff" -->
 
 ---
 
