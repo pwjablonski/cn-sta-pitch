@@ -22,7 +22,7 @@ weeks
 
 # 90
 
-of the best young coders NYC has to offer
+of NYC's best young coders
 
 ---
 
