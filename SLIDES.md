@@ -51,7 +51,7 @@ to design for some of the world's best tech companies... and the future.
 Modeled after popular reality shows like _Rhythm and Flow_, _The Voice_, and _Next in Fashion_, each week students will:
 
 1. Be given a challenge based on a company client.
-2. Work in teams to create a stunning web design product by the end of the week.
+2. Work in teams to create a stunning web based product by the end of the week.
 3. Present their work in a mini-showcase each week all culminating in a final showcase at the end of the summer.
 
 Note:
@@ -158,4 +158,3 @@ aww shi shi (i cant write pinyin) enjoy your day!
 
 ### Feedback: Glows and Grows
 
----
