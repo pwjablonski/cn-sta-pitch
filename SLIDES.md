@@ -99,6 +99,7 @@ Through exploring and creating with their peers and interacting with leading tec
 | Team Worktime                          | SYEP           | SYEP           | SYEP              |
 | Tech Discussion                        |                |                |                   |
 | SYEP                                   |
+
 <!-- .element: style="font-size: .5em" -->
 
 ---
@@ -125,6 +126,10 @@ Through exploring and creating with their peers and interacting with leading tec
 
 Note:
 I think this is kind of dry, but i am not sure what else to add, especially since we don't know exactly who the partners will be. 
+I have to step away for a bit but I'll go through and leave notes or small changes!
+cool! thanks for looking it thru today. i know its a sunday and its the last thing anyone wants to be doing! 
+You did great work! Not at all! hahah xie xie! you too!
+aww shi shi (i cant write pinyin) enjoy your day!
 
 <!-- .slide: data-background="#00FECD" -->
 
@@ -132,8 +137,8 @@ I think this is kind of dry, but i am not sure what else to add, especially sinc
 
 ### What skills are students gaining?
 
-- Technical (p5, JavaScript, use of an Glitch IDE, Github)
-- Workplace readiness skills (teamwork, project planning, workshops on networking, interviewing, resume writin and more)
+- Technical (p5, JavaScript, use of Glitch IDE, Github)
+- Workplace Readiness Skills (teamwork, project planning, workshops on networking, interviewing, resume writing and more)
 - Digital Citizenship (discussions about inequity in tech; tech, ethics, and social responsibility; tech and social justice)
 
 <!-- .slide: data-background="#00FECD" -->
