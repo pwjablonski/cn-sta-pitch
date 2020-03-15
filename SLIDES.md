@@ -15,7 +15,7 @@ It's time for our youth to take the lead in shaping it.
 
 ---
 
-# 5
+# 6
 
 weeks
 
@@ -35,22 +35,41 @@ to design for some of the world's best tech companies... and the future.
 
 ### This is Code Nation's
 
-
-
 ![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(1).png?v=1584281662116)
 <!-- .slide: data-background="#17d3ff" -->
 
 ---
 
 ###### Premise
-hi peter!
-Hi!
-does the goal as its written sound too clunky? because i think it does 
-For the goal it think insstead of student will we can start with "To excite"
+
 Modeled after popular reality shows like *Rhythm and Flow*, *The Voice*, and *Next in Fashion*, each week students will:
 1. Be given a challenge based on a company client.
 2. Work in teams to create a stunning web design product by the end of the week.
 3. Present their work in a mini-showcase each week all culminating in a final showcase at the end of the summer.
+
+Note: hi peter!
+Hi!
+does the goal as its written sound too clunky? because i think it does 
+yeah that I like the ending part though
+One th
+what do you feel needs to be added/taken out (other than the goal which im rewording now)
+I am goin to go through and write some notes
+which we can add under Note: on each slide.
+I think it looks great!!
+
+cool! sounds good
+I think we are a 6 weeks now :/
+
+oh thats right. because they are doing orientation earlier 
+yup
+cool, changed that part
+So I love The Code Off, the only thing I'm thinking is how we think about what is what
+as in we have a lot of names of things already with the full name being
+Code Nation's Summer Tech Academy's Incubator's The Code Off
+How should we be thinking about this?
+no, thats a good point...hmmm. i guess we should just stick with the summer tech academy...i guess that makes the most sense ...especially since 
+someone from syep expressed that they liked the name 
+Summer Tech Academy?
 
 ---
 
@@ -61,7 +80,6 @@ Modeled after popular reality shows like *Rhythm and Flow*, *The Voice*, and *Ne
 
 ### Goal
 
-To excite by the possibilites in the tech world by engaging with their peers to create exciting projects, and engaging with actual tech companies and professionals. In addition to developing new technical skills, students will also delve deep into thought-provoking discussions about the tech industry, and thus be inspired to be active agents who can affect change within it.
 
 ---
 
@@ -144,11 +162,3 @@ To excite by the possibilites in the tech world by engaging with their peers to 
 
 ---
 
-- Skills
-  - Technical ()
-  - Workplace Readiness Skills (networking, interviewing, teamwork, project planning)
-  - Digital Citizenship ()
-- Example projects
-- Glows and Grows
-
-![alt text](https://codenation.org/wp-content/uploads/2018/09/hero-home.png)
