@@ -32,9 +32,10 @@ to design for some of the world's best tech companies... and the future.
 
 ---
 
-### This is Code Nation's
+### This is Code Nation's...
 
 ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(2).png?v=1584283545880>)
+<!-- .element: class="fragment"-->
 
 <!-- .slide: data-background="#17d3ff" -->
 
@@ -60,13 +61,14 @@ Note:
 
 ### Goal
 
-Through exploring and creating with their peers and interacting with leading tech companies, students will leave the Summer Tech Academy inspired to take part in all the tech world has to offer and be active agents who can affect change within it.
+Through **exploring** and **creating** with their peers and **connecting** with leading tech companies,
+students will leave the **Summer Tech Academy** inspired to take part in all the tech world has to offer and be active agents who can affect change within it.
 
 ---
 
 ### Two Programs, Twice the Impact
 
-| The Bootcamp                                                                           | The Etsy Incubator                                                                     |
+| The Bootcamp                                                                           | The Incubator                                                                     |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | Curriculum based on p5                                                                 | Curriculum based on p5                                                                 |
 | Will include field trips to company "clients"                                          | Will include field trips to company clients                                            |
