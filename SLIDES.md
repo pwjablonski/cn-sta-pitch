@@ -12,7 +12,6 @@ It's time for our youth to take the lead in shaping it.
 
 ![alt text](https://media.giphy.com/media/l4pT3tv3lAtKM4duE/giphy.gif)
 
-
 ---
 
 # 6
@@ -35,49 +34,33 @@ to design for some of the world's best tech companies... and the future.
 
 ### This is Code Nation's
 
-![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(2).png?v=1584283545880)
+![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(2).png?v=1584283545880>)
+
 <!-- .slide: data-background="#17d3ff" -->
 
 ---
 
 ###### Premise
 
-Modeled after popular reality shows like *Rhythm and Flow*, *The Voice*, and *Next in Fashion*, each week students will:
+Modeled after popular reality shows like _Rhythm and Flow_, _The Voice_, and _Next in Fashion_, each week students will:
+
 1. Be given a challenge based on a company client.
 2. Work in teams to create a stunning web design product by the end of the week.
 3. Present their work in a mini-showcase each week all culminating in a final showcase at the end of the summer.
 
-Note: 
+Note:
 
 ---
 
 ![alt text](https://media.giphy.com/media/MXjcLtU32AML6xAGeu/giphy.gif)
+
 <!-- .slide: data-background="#17d3ff" -->
 
 ---
 
-
-
 ### Goal
 
-Through exploring and creating with their peers and interacting with leading tech companies, students will leave the Summer Tech Academy inspired to take part in all the tech world has to offer.  Students will also delve deep into thought-provoking discussions about the tech industry, and thus be inspired to be active agents who can affect change within it.
-
-Note:
-is that better? blah that just made it clunkier than before even
-Let's maybe shorted this to just the first sentence and include the second sentence somewhere else
-vale 
-Looking good! - I think a stronger word then enthusiatic
-Could we a have a slide before this that has a like maybe three words that convey what we are driving towards sounds good
-I like having the slides have as little a possible and we can fill in the rest
-but we should be giving folks the words or the feelings that we students be walking away with
-what should i title that section. or like "big takeaways"
-Sorry let me back up, I don't think it goes here
-This section is more details - hmmmm let's pause on this too sorrrry!
-the keywords you mean?
-yeah 
-cool, no worries! 
-
-Love it!
+Through exploring and creating with their peers and interacting with leading tech companies, students will leave the Summer Tech Academy inspired to take part in all the tech world has to offer and be active agents who can affect change within it.
 
 ---
 
@@ -113,9 +96,9 @@ Love it!
 | -------------------------------------- | -------------- | -------------- | ----------------- |
 | Challenge and company client revealed! | Lesson #3      | Team Work Time | Presentation Prep |
 | Lessons #1 + #2                        | Team work time | Trip!          | MINI SHOWCASE!    |
-| Team Worktime                          | SYEP           | SYEP           |
-| Tech Discussion                        | SYEP           | SYEP           |
-
+| Team Worktime                          | SYEP           | SYEP           | SYEP              |
+| Tech Discussion                        |                |                |                   |
+| SYEP                                   |
 <!-- .element: style="font-size: .5em" -->
 
 ---
@@ -124,10 +107,10 @@ Love it!
 
 | Monday                                 | Tuesday                   | Wednesday      | Thursday                     | Friday            |
 | -------------------------------------- | ------------------------- | -------------- | ---------------------------- | ----------------- |
-| Challenge and company client revealed! | Tech Workship #3          | Team Work Time | Team Worktime                | Presentation Prep |
+| Challenge and company client revealed! | Tech Workshop #3          | Team Work Time | Team Worktime                | Presentation Prep |
 | Tech workshops #1 + #2                 | Team work time            | Trip!          | Professional Skills Workshop | MINI SHOWCASE!    |
-| Team Worktime                          | Ethics in Tech Discussion |
-| Tech Discussion                        | SYEP                      | SYEP           |
+| Team Worktime                          | Ethics in Tech Discussion |                |                              |                   |
+| Tech Discussion                        |                           |                |                              |                   |
 
 <!-- .element: style="font-size: .5em" -->
 
@@ -140,6 +123,9 @@ Love it!
 - Will be engaged in a hands-on tech activity while at company
 - Learn about different tech careers in "career stations" activity
 
+Note:
+I think this is kind of dry, but i am not sure what else to add, especially since we don't know exactly who the partners will be. 
+
 <!-- .slide: data-background="#00FECD" -->
 
 ---
@@ -150,6 +136,8 @@ Love it!
 - Workplace readiness skills (teamwork, project planning, workshops on networking, interviewing, resume writin and more)
 - Digital Citizenship (discussions about inequity in tech; tech, ethics, and social responsibility; tech and social justice)
 
+<!-- .slide: data-background="#00FECD" -->
+
 ---
 
 ### Example Projects
@@ -159,4 +147,3 @@ Love it!
 ### Feedback: Glows and Grows
 
 ---
-
