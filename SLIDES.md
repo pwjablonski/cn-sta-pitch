@@ -47,43 +47,7 @@ Modeled after popular reality shows like *Rhythm and Flow*, *The Voice*, and *Ne
 2. Work in teams to create a stunning web design product by the end of the week.
 3. Present their work in a mini-showcase each week all culminating in a final showcase at the end of the summer.
 
-Note: hi peter!
-Hi!
-does the goal as its written sound too clunky? because i think it does 
-yeah that I like the ending part though
-One th
-what do you feel needs to be added/taken out (other than the goal which im rewording now)
-I am goin to go through and write some notes
-which we can add under Note: on each slide.
-I think it looks great!!
-
-cool! sounds good
-I think we are a 6 weeks now :/
-
-oh thats right. because they are doing orientation earlier 
-yup
-cool, changed that part
-So I love The Code Off, the only thing I'm thinking is how we think about what is what
-as in we have a lot of names of things already with the full name being
-Code Nation's Summer Tech Academy's Incubator's The Code Off
-How should we be thinking about this?
-no, thats a good point...hmmm. i guess we should just stick with the summer tech academy...i guess that makes the most sense ...especially since 
-someone from syep expressed that they liked the name 
-Summer Tech Academy?
-dammnit i keep messing up formatting...but yes, summer tech academy. i will say i do think incubator sounds really weird. but i guess
-we cant call it an internship
-
-Haha yeah I think of baby chicks with incubator
-But yeah the first slide with the reveal should have Code Nation's Summer Tech Academy at some point
-
-Either Code Nation's Summer Tech Academy or Summer Tech Academy's The Code Off
-
-But I do really like The Code Off I just don't want folks to be confused with all the names
-
-youre totally right. there are a lot of names going on. i feel like some of them are more like, internal and im not even sure yet which will
-be student facing. but i like, i mean i like both. i guess CN would prefer for branding the first one you suggested 
-
-Okay I'll noodle on this a bit
+Note: 
 
 ---
 
@@ -92,23 +56,28 @@ Okay I'll noodle on this a bit
 
 ---
 
----
 
----
 
 ### Goal
 
-Through working on exciting projects with their peers and getting to interact with leading tech companies, students will leave the Summer Tech Academy inspired to take part in all the tech world has to offer.  Students will also delve deep into thought-provoking discussions about the tech industry, and thus be inspired to be active agents who can affect change within it.
+Through exploring and creating with their peers and interacting with leading tech companies, students will leave the Summer Tech Academy inspired to take part in all the tech world has to offer.  Students will also delve deep into thought-provoking discussions about the tech industry, and thus be inspired to be active agents who can affect change within it.
 
 Note:
-
+is that better? blah that just made it clunkier than before even
+Let's maybe shorted this to just the first sentence and include the second sentence somewhere else
+vale 
 Looking good! - I think a stronger word then enthusiatic
 Could we a have a slide before this that has a like maybe three words that convey what we are driving towards sounds good
-And use this a  more detailed explanation
-ie. joy, hypecited, exploration, creation
-haha hypecited
- yep i can add that
-haha I think 
+I like having the slides have as little a possible and we can fill in the rest
+but we should be giving folks the words or the feelings that we students be walking away with
+what should i title that section. or like "big takeaways"
+Sorry let me back up, I don't think it goes here
+This section is more details - hmmmm let's pause on this too sorrrry!
+the keywords you mean?
+yeah 
+cool, no worries! 
+
+Love it!
 
 ---
 
