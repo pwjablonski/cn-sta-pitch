@@ -10,23 +10,26 @@
 
 It's time for our youth to take the lead in shaping it.
 
+![alt text](https://media.giphy.com/media/l4pT3tv3lAtKM4duE/giphy.gif)
+
+
 ---
 
-### 4
+# 5
 
 weeks
 
 ---
 
-### 60
+# 90
 
 of the best young coders NYC has to offer
 
 ---
 
-### 1 mission
+# 1 mission
 
-to design for some of the world's best tech companies and...the future
+to design for some of the world's best tech companies... and the future.
 
 ---
 
