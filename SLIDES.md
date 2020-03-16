@@ -134,26 +134,13 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 ---
 
-### Field Trips!
-
-- Visit the client companies their project is based around
-- See what it's like to work at an actual tech company
-- Engage in a hands-on tech activity
-- Learn about different tech careers in "career stations" activity
-
-Note:
-
-<!-- .slide: data-background="#00FECD" -->
-
----
-
 ### Tech Workshops
 
 - Opportunities to explore new concepts in p5 JavaScript
 - Will include a mini-lesson and a lab where make meaning of the new skills they've learned
 - Skills learned: p5, how to code in Glitch, Github
 
-<!-- .slide: data-background="#00FECD" -->
+<!-- .slide: data-background="#fee975" -->
 
 ---
 
@@ -161,18 +148,19 @@ Note:
 
 - Learn and practice different skills relevant to the workplace (and beyond!)
 - For Bootcamp, these will be provided by SYEP
-- For Etsy Incubator, these will be provided by Code Nation. Sample topics: interviewing, networking, resume writing
+- For Etsy Incubator, these will be provided by Code Nation. 
+- Sample topics: financial literacy, interviewing, networking, resume writing
 
-<!-- .slide: data-background="#00FECD" -->
+<!-- .slide: data-background="#ffaa7b" -->
 
 ---
 
 ### Tech and Society
 
-- Spaces to discuss, debate, and ruminate on thought-provoking issues facing the tech industry and the tech's role in our society
+- Spaces to discuss, debate, and ruminate on thought-provoking issues regarding the tech industry and tech's role in our society
 - Potential topics can include: racial and gender inequality in the tech industry, tech and ethics, being a responsible digital citizen
 
-<!-- .slide: data-background="#00FECD" -->
+<!-- .slide: data-background="#17d3ff"-->
 
 ---
 
@@ -183,9 +171,9 @@ Note:
 - Engage in a hands-on tech activity
 - Learn about different tech careers in "career stations" activity
 
-Note:
 
-<!-- .slide: data-background="#00FECD" -->
+
+<!-- .slide: data-background="#00ffcc" -->
 
 ---
 
@@ -214,6 +202,16 @@ Note:
     style="height: 100%; width: 100%; border: 0;">
   </iframe>
 </div>
+
+---
+
+### This is...Code Nation's Summer Tech Academy!
+
+
+
+![alt text](https://media.giphy.com/media/MXjcLtU32AML6xAGeu/giphy.gif)
+
+<!-- .slide: data-background="#00ffcc" -->
 
 ---
 
