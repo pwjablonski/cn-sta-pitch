@@ -46,7 +46,7 @@ to design for some of the world's best tech companies... and the future.
 
 ### This is Code Nation's...
 
-![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(2).png?v=1584283545880>)
+![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(3).png?v=1584388947507>)
 
 <!-- .element: class="fragment"-->
 
@@ -147,11 +147,21 @@ Note:
 
 ---
 
-### What skills are students gaining?
+### Tech Workshops
 
-- Technical (p5, JavaScript, use of Glitch IDE, Github)
-- Workplace Readiness Skills (teamwork, project planning, workshops on networking, interviewing, resume writing and more)
-- Digital Citizenship (discussions about inequity in tech; tech, ethics, and social responsibility; tech and social justice)
+- Opportunities to explore new concepts in p5 JavaScript
+- Will include a mini-lesson and a lab where make meaning of the new skills they've learned
+- Skills learned: p5, how to code in Glitch, Github
+
+<!-- .slide: data-background="#00FECD" -->
+
+---
+
+### Professional Skills Workshops
+
+- Learn and practice different skills relevant to the workplace (and beyond!)
+- For Bootcamp, these will be provided by SYEP
+- For Etsy Incubator, these will be provided by Code Nation. Sample topics: interviewing, networking, resume writing
 
 <!-- .slide: data-background="#00FECD" -->
 
