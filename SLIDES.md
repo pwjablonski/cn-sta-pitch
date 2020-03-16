@@ -160,7 +160,27 @@ aww shi shi (i cant write pinyin) enjoy your day!
 
 ---
 
-<iframe src="https://editor.p5js.org/pwjablonski/embed/Vx0-JYKppT" style="height:100vh; width:100%"></iframe>
+<!-- Copy and Paste Me -->
+<div class="glitch-embed-wrap" style="height: 80vh; width: 100%;">
+  <iframe
+    src="https://glitch.com/embed/#!/embed/keyboard-color?path=script.js&previewSize=100"
+    title="keyboar-color on Glitch"
+    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>
+
+---
+
+<!-- Copy and Paste Me -->
+<div class="glitch-embed-wrap" style="height: 80vh; width: 100%;">
+  <iframe
+    src="https://glitch.com/embed/#!/embed/face-draw?path=script.js&previewSize=100"
+    title="face-draw on Glitch"
+    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>
 
 ---
 
