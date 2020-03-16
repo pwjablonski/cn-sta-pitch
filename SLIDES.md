@@ -96,37 +96,39 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 | For students 14-15                                  | For students 16 and older                                          |
 | Takes place at the Van Arsdale Education Campus     | Takes place at Etsy                                                |
 | Will feature professional skills training from SYEP | Will feature professional skills workshops provided by Code Nation |
-| Culminates with an SYEP-wide showcase               | Culminates with a showcase (at Etsy)                                        |
+| Culminates with an SYEP-wide showcase               | Culminates with a showcase (at Etsy)                               |
 
 <!-- .element: style="font-size: .8em" -->
 <!-- .slide: data-background="#00D4FD" -->
 
 ---
 
-###### Sample Schedule: Bootcamp
-#### 20 hours a week, 5 hours each day
+#### Sample Schedule: Bootcamp
+
+20 hours a week, 5 hours each day <!-- .element: style="font-size: .5em" -->
 
 | Monday                                 | Tuesday           | Wednesday      | Thursday          |
 | -------------------------------------- | ----------------- | -------------- | ----------------- |
 | Challenge and company client revealed! | Tech Workshops #3 | Team Work Time | Presentation Prep |
 | Tech Workshops #1 + #2                 | Team work time    | Trip!          | MINI SHOWCASE!    |
 | Team Worktime                          | SYEP              | SYEP           | SYEP              |
-| Tech Discussion                        |                   |                |                   |
-| SYEP                                   |
+| SYEP                                   | Tech and Society  |                |                   |
+                                  
 
 <!-- .element: style="font-size: .5em" -->
 
 ---
 
-###### Sample Schedule: Incubator
-#### 
+#### Sample Schedule: Incubator
 
-| Monday                                 | Tuesday                   | Wednesday      | Thursday                     | Friday            |
-| -------------------------------------- | ------------------------- | -------------- | ---------------------------- | ----------------- |
-| Challenge and company client revealed! | Tech Workshop #3          | Team Work Time | Team Worktime                | Presentation Prep |
-| Tech Workshops #1 + #2                 | Team work time            | Trip!          | Professional Skills Workshop | MINI SHOWCASE!    |
-| Team Worktime                          | Ethics in Tech Discussion |                |                              |                   |
-| Tech Discussion                        |                           |                |                              |                   |
+25 hours, 5 hours each day <!-- .element: style="font-size: .5em" -->
+
+| Monday                                 | Tuesday          | Wednesday      | Thursday                     | Friday            |
+| -------------------------------------- | ---------------- | -------------- | ---------------------------- | ----------------- |
+| Challenge and company client revealed! | Tech Workshop #3 | Team Work Time | Team Worktime                | Presentation Prep |
+| Tech Workshops #1 + #2                 | Team work time   | Trip!          | Professional Skills Workshop | MINI SHOWCASE!    |
+| Team Worktime                          | Tech and Society |                |                              |                   |
+                                                                                                                       
 
 <!-- .element: style="font-size: .5em" -->
 
@@ -134,7 +136,7 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 ### Field Trips!
 
-- Visit the "client" companies their project is based around
+- Visit the client companies their project is based around
 - See what it's like to work at an actual tech company
 - Engage in a hands-on tech activity
 - Learn about different tech careers in "career stations" activity
