@@ -25,6 +25,7 @@ weeks
 # 90
 
 of NYC's best young coders
+
 <!-- .slide: data-background="#17d3ff" -->
 
 ---
@@ -32,11 +33,13 @@ of NYC's best young coders
 # 1 mission
 
 to design for some of the world's best tech companies... and the future.
+
 <!-- .slide: data-background="#e4a4ee" -->
 
 ---
 
 # Get hypecited!
+
 <!-- .slide: data-background="#0080ff" -->
 
 ---
@@ -58,30 +61,29 @@ Modeled after popular reality shows like _Rhythm and Flow_, _The Voice_, and _Ne
 1. Be given a challenge based on a company client.
 2. Work in teams to create a stunning web based product by the end of the week.
 3. Present their work in a mini-showcase each week all culminating in a final showcase at the end of the summer.
-<!-- .slide: data-background="#ffaa7b" -->
-Note:
+   <!-- .slide: data-background="#ffaa7b" -->
+   Note:
 
 ---
 
 ![alt text](https://media.giphy.com/media/MXjcLtU32AML6xAGeu/giphy.gif)
-
 
 ---
 
 ### Goal
 
 Through **exploring** and **creating** with their peers and **connecting** with leading tech companies,
-students will leave the **Summer Tech Academy** inspired to take part in all the tech world has to offer and be active agents who can affect change within it.
+students will leave the **Summer Tech Academy** inspired to take part in all the tech world has to offer and be active agents who can affect **change** within it.
 
 ---
 
 ### Two Programs, Twice the Impact
 
-| The Bootcamp                                                                           | The Incubator                                                                          |
-| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| Curriculum based on p5                                                                 | Curriculum based on p5                                                                 |
-| Will include field trips to company "clients"                                          | Will include field trips to company clients                                            |
-| Students will work in groups extensively and present projects in mini showcases weekly | Students will work in groups extensively and present projects in mini showcases weekly |
+| The Bootcamp                                                               | The Incubator                                                              |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Curriculum based on p5                                                     | Curriculum based on p5                                                     |
+| Will include field trips to company clients                                | Will include field trips to company clients                                |
+| Students will work in groups and present projects in mini showcases weekly | Students will work in groups and present projects in mini showcases weekly |
 
 <!-- .slide: data-background="#00D4FD" -->
 
@@ -94,7 +96,7 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 | For students 14-15                                  | For students 16 and older                                          |
 | Takes place at the Van Arsdale Education Campus     | Takes place at Etsy                                                |
 | Will feature professional skills training from SYEP | Will feature professional skills workshops provided by Code Nation |
-| Culminates with an SYEP-wide showcase               | Culminates with a showcase                                         |
+| Culminates with an SYEP-wide showcase               | Culminates with a showcase (at Etsy)                                        |
 
 <!-- .element: style="font-size: .8em" -->
 <!-- .slide: data-background="#00D4FD" -->
@@ -102,6 +104,7 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 ---
 
 ###### Sample Schedule: Bootcamp
+#### 20 hours a week, 5 hours each day
 
 | Monday                                 | Tuesday           | Wednesday      | Thursday          |
 | -------------------------------------- | ----------------- | -------------- | ----------------- |
@@ -116,6 +119,7 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 ---
 
 ###### Sample Schedule: Incubator
+#### 
 
 | Monday                                 | Tuesday                   | Wednesday      | Thursday                     | Friday            |
 | -------------------------------------- | ------------------------- | -------------- | ---------------------------- | ----------------- |
@@ -185,4 +189,3 @@ aww shi shi (i cant write pinyin) enjoy your day!
 ---
 
 ### Feedback: Glows and Grows
-
