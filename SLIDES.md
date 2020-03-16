@@ -167,6 +167,28 @@ Note:
 
 ---
 
+### Tech and Society
+
+- Spaces to discuss, debate, and ruminate on thought-provoking issues facing the tech industry and the tech's role in our society
+- Potential topics can include: racial and gender inequality in the tech industry, tech and ethics, being a responsible digital citizen
+
+<!-- .slide: data-background="#00FECD" -->
+
+---
+
+### Field Trips!
+
+- Visit the client companies their project is based around
+- See what it's like to work at an actual tech company
+- Engage in a hands-on tech activity
+- Learn about different tech careers in "career stations" activity
+
+Note:
+
+<!-- .slide: data-background="#00FECD" -->
+
+---
+
 ### Example Projects
 
 ---
