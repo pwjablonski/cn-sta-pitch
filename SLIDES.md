@@ -142,11 +142,6 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 - Learn about different tech careers in "career stations" activity
 
 Note:
-I think this is kind of dry, but i am not sure what else to add, especially since we don't know exactly who the partners will be.
-I have to step away for a bit but I'll go through and leave notes or small changes!
-cool! thanks for looking it thru today. i know its a sunday and its the last thing anyone wants to be doing!
-You did great work! Not at all! hahah xie xie! you too!
-aww shi shi (i cant write pinyin) enjoy your day!
 
 <!-- .slide: data-background="#00FECD" -->
 
@@ -191,3 +186,5 @@ aww shi shi (i cant write pinyin) enjoy your day!
 ---
 
 ### Feedback: Glows and Grows
+
+---
