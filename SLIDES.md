@@ -209,7 +209,7 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 
 
-![alt text](https://media.giphy.com/media/MXjcLtU32AML6xAGeu/giphy.gif)
+![alt text](https://media.giphy.com/media/kegnFrhZLZa6IwzeTi/giphy.gif)
 
 <!-- .slide: data-background="#00ffcc" -->
 
