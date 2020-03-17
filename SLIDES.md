@@ -12,13 +12,12 @@ It's time for our youth to take the lead in shaping it.
 
 ![alt text](https://media.giphy.com/media/l4pT3tv3lAtKM4duE/giphy.gif)
 
-<!-- .slide: data-background="#00FECD" -->
-
 ---
 
 # 6
 
 weeks
+<!-- .slide: data-background="#00FECD" -->
 
 ---
 
@@ -44,7 +43,7 @@ to design for some of the world's best tech companies... and the future.
 
 ---
 
-### This is Code Nation's...
+### This is ...
 
 ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(3).png?v=1584388947507>)
 
