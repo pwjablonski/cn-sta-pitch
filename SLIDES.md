@@ -184,6 +184,30 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 <!-- Copy and Paste Me -->
 <div class="glitch-embed-wrap" style="height: 80vh; width: 100%;">
   <iframe
+    src="https://glitch.com/embed/#!/embed/code-nation-logo?path=README.md&previewSize=100"
+    title="code-nation-logo on Glitch"
+    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>
+
+---
+
+<!-- Copy and Paste Me -->
+<div class="glitch-embed-wrap" style="height: 80vh; width: 100%;">
+  <iframe
+    src="https://glitch.com/embed/#!/embed/code-nation-logo-colors?path=README.md&previewSize=100"
+    title="code-nation-logo-colors on Glitch"
+    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>
+
+---
+
+<!-- Copy and Paste Me -->
+<div class="glitch-embed-wrap" style="height: 80vh; width: 100%;">
+  <iframe
     src="https://glitch.com/embed/#!/embed/keyboard-color?path=script.js&previewSize=100"
     title="keyboar-color on Glitch"
     allow="geolocation; microphone; camera; midi; vr; encrypted-media"
