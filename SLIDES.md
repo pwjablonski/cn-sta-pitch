@@ -180,6 +180,16 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 ---
 
+<iframe src="https://www.openprocessing.org/sketch/751983/embed/" width="100%" height="500px"></iframe>
+
+
+---
+
+<iframe src="https://www.openprocessing.org/sketch/858739/embed/" width="100%" height="500px"></iframe>
+
+
+---
+
 <!-- Copy and Paste Me -->
 <div class="glitch-embed-wrap" style="height: 80vh; width: 100%;">
   <iframe
