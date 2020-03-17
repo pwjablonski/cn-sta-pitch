@@ -157,7 +157,7 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 ### Tech and Society
 
 - Spaces to discuss, debate, and ruminate on thought-provoking issues regarding the tech industry and tech's role in our society
-- Potential topics can include: racial and gender inequality in the tech industry, tech and ethics, being a responsible digital citizen
+- Potential topics can include: racial and gender inequality in the tech industry, data privacy, tech and ethics, being a responsible digital citizen
 
 <!-- .slide: data-background="#17d3ff"-->
 
