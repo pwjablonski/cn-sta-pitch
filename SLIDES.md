@@ -216,6 +216,16 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 ---
 
+### Milestones
+
+- **Partnership Negotiations**: 	Feb 1st  - April 1st
+- **Research + Design**: 		Mar 1st - April 15th 
+- **Preparation + Setup**:	March 15th - June 30th
+- **Program Launch**:  		June 20th - August 15th
+- **Closeout + Reporting**:	End of August 2020
+
+---
+
 ### This is...Code Nation's Summer Tech Academy!
 
 
