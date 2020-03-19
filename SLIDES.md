@@ -53,6 +53,16 @@ to design for some of the world's best tech companies... and the future.
 
 ---
 
+###### Who here likes reality tv?
+![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(3).png?v=1584388947507>)
+![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(3).png?v=1584388947507>)
+![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(3).png?v=1584388947507>)
+![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(3).png?v=1584388947507>)
+
+   <!-- .slide: data-background="#ffaa7b" -->
+   
+---
+
 ###### Premise
 
 Modeled after popular reality shows like _Rhythm and Flow_, _The Voice_, and _Next in Fashion_, each week students will:
