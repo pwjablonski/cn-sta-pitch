@@ -55,13 +55,16 @@ to design for some of the world's best tech companies... and the future.
 
 ###### Who here likes reality tv?
 ![alt text](<https://media.giphy.com/media/YOARxPR1ywIDf5lBQw/giphy.gif>)
-![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(3).png?v=1584388947507>)
-![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(3).png?v=1584388947507>)
-![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(3).png?v=1584388947507>)
+<!-- .element: style="width: 200px" -->
+![alt text](<https://media.giphy.com/media/l0MYFCievRkAMaBbi/giphy.gif>)
+<!-- .element: style="width: 200px" -->
+![alt text](<https://media.giphy.com/media/3o7TKGMZHi73yzCumQ/giphy.gif>)
+<!-- .element: style="width: 200px" -->
 
    <!-- .slide: data-background="#ffaa7b" -->
-   
+    
 ---
+
 
 ###### Premise
 
@@ -72,7 +75,7 @@ Modeled after popular reality shows like _Rhythm and Flow_, _The Voice_, and _Ne
 3. Present their work in a mini-showcase each week all culminating in a final showcase at the end of the summer.
    <!-- .slide: data-background="#ffaa7b" -->
    
-
+   
 ---
 
 ![alt text](https://media.giphy.com/media/MXjcLtU32AML6xAGeu/giphy.gif)
