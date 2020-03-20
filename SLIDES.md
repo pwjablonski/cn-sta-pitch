@@ -54,13 +54,13 @@ to design for some of the world's best tech companies... and the future.
 ---
 
 
-##Create.
+## Create.
 <!-- .element: class="fragment"-->
 
 ## Connect.
 <!-- .element: class="fragment"-->
 
-Change.
+## Change.
 <!-- .element: class="fragment"-->
 
 <!-- .slide: data-background="#fee975" -->
@@ -105,11 +105,11 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 #### Summer Tech Academy Bootcamp 
   ![alt text](<https://media.giphy.com/media/dz7URyVai4CQURp4Pz/giphy.gif>)
-<!-- .element: style="width: 280px" -->
+<!-- .element: style="width: 280px; margin:auto" -->
 
 #### Summer Tech Academy Incubator @ Etsy
   ![alt text](<https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3db1be67973419.5b4fa1c87dd24.gif>)
-<!-- .element: style="width: 280px" -->
+<!-- .element: style="width: 280px; margin:auto" -->
 <!-- .slide: data-background="#00D4FD" -->
 
 ---
