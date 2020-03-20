@@ -8,6 +8,18 @@
 
 ## Technology is changing the world around us...
 
+
+![alt text](https://media.giphy.com/media/l4pT3tv3lAtKM4duE/giphy.gif)
+<!-- .element: style="width: 100px; margin:auto" -->
+![alt text](https://media.giphy.com/media/xT8qBkJRN715dTqnok/giphy.gif) 
+<!-- .element: style="width: 100px; margin:auto" -->
+![alt text](https://media.giphy.com/media/atZII8NmbPGw0/giphy.gif)
+<!-- .element: style="width: 100px; margin:auto" -->
+![alt text](https://media.giphy.com/media/12qq4Em3MVuwJW/giphy.gif)
+<!-- .element: style="width: 100px; margin:auto" -->
+
+---
+
 It's time for our youth to take the lead in shaping it.
 
 ![alt text](https://media.giphy.com/media/l4pT3tv3lAtKM4duE/giphy.gif)
