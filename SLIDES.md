@@ -52,6 +52,8 @@ to design for some of the world's best tech companies... and the future.
 <!-- .slide: data-background="#fee975" -->
 
 ---
+
+#### Code Nation's Summer Tech Academy
 Explore.
 <!-- .element: class="fragment"-->
 
@@ -63,6 +65,9 @@ Connect.
 
 Change.
 <!-- .element: class="fragment"-->
+
+<!-- .slide: data-background="#fee975" -->
+
 ---
 
 ###### Who here likes reality tv?
@@ -124,6 +129,9 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 <!-- .slide: data-background="#00D4FD" -->
 
 ---
+
+#### Summer Tech Academy Bootcamp Goal:
+
 
 #### Sample Schedule: Bootcamp
 
