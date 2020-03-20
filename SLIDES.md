@@ -104,6 +104,17 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 ---
 
+### Two Programs. Twice The Impact:
+#### Summer Tech Academy Bootcamp:
+- To inspire  students with engaging web-based projects and thought-provoking discussions about tech and its role in society.  
+- To get students  excited about tech and want to be future game changers in this ever important industry. 
+
+#### Summer Tech Academy Incubator @ Etsy
+- To inspire  students with engaging web-based projects and thought-provoking discussions about tech and its role in society.  
+- To get students  excited about tech and want to be future game changers in this ever important industry. 
+- To expose students to what life is like at an actual tech company, and cultivate the professional skills they'd need to 
+---
+
 ### Two Programs, Twice the Impact
 
 | The Bootcamp                                                               | The Incubator                                                              |
@@ -129,9 +140,6 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 <!-- .slide: data-background="#00D4FD" -->
 
 ---
-
-#### Summer Tech Academy Bootcamp Goal:
-
 
 #### Sample Schedule: Bootcamp
 
