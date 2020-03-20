@@ -53,14 +53,11 @@ to design for some of the world's best tech companies... and the future.
 
 ---
 
-#### Code Nation's Summer Tech Academy
-Explore.
+
+##Create.
 <!-- .element: class="fragment"-->
 
-Create.
-<!-- .element: class="fragment"-->
-
-Connect.
+## Connect.
 <!-- .element: class="fragment"-->
 
 Change.
@@ -72,11 +69,11 @@ Change.
 
 ###### Who here likes reality tv?
 ![alt text](<https://media.giphy.com/media/YOARxPR1ywIDf5lBQw/giphy.gif>)
-<!-- .element: style="width: 200px" -->
+<!-- .element: style="width: 200px; margin:auto" -->
 ![alt text](<https://media.giphy.com/media/l0MYFCievRkAMaBbi/giphy.gif>)
-<!-- .element: style="width: 200px" -->
+<!-- .element: style="width: 200px; margin:auto" -->
 ![alt text](<https://media.giphy.com/media/3o7TKGMZHi73yzCumQ/giphy.gif>)
-<!-- .element: style="width: 200px" -->
+<!-- .element: style="width: 200px; margin:auto" -->
 
 <!-- .slide: data-background="#ffaa7b" -->
 
@@ -99,7 +96,7 @@ Modeled after popular reality shows like _Rhythm and Flow_, _The Voice_, and _Ne
 
 ### Goal
 
-Through **exploring** and **creating** with their peers and **connecting** with leading tech companies,
+Through exploring and **creating** with their peers and **connecting** with leading tech companies,
 students will leave the **Summer Tech Academy** inspired to take part in all the tech world has to offer and be active agents who can affect **change** within it.
 
 ---
