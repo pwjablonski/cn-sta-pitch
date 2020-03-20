@@ -107,20 +107,28 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 ### Two Programs. Twice The Impact:
 
 #### Summer Tech Academy Bootcamp 
-![alt text](<https://media.giphy.com/media/tpktrAdVpOzm/giphy.gif>)
+  ![alt text](<https://media.giphy.com/media/dz7URyVai4CQURp4Pz/giphy.gif>)
+<!-- .element: style="width: 280px" -->
 
 #### Summer Tech Academy Incubator @ Etsy
-![alt text](<https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3db1be67973419.5b4fa1c87dd24.gif>)
+  ![alt text](<https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3db1be67973419.5b4fa1c87dd24.gif>)
+<!-- .element: style="width: 280px" -->
+<!-- .slide: data-background="#00D4FD" -->
 
 ---
 
+#### Summer Tech Academy Bootcamp Goals:
 - To inspire  students with engaging web-based projects and thought-provoking discussions about tech and its role in society.  
 - To get students  excited about tech and want to be future game changers in this ever important industry. 
+<!-- .slide: data-background="#00D4FD" -->
 
-#### Summer Tech Academy Incubator @ Etsy
+---
+
+#### Summer Tech Academy Incubator @ Etsy Goals:
 - To inspire  students with engaging web-based projects and thought-provoking discussions about tech and its role in society.  
 - To get students  excited about tech and want to be future game changers in this ever important industry. 
-- To expose students to what life is like at an actual tech company, and help evelop the professional skills they'd need to succeed in such an environemnt 
+- To expose students to what life is like at an actual tech company, and help them develop the professional skills they'd need to succeed in such an environemnt 
+<!-- .slide: data-background="#fee975" -->
 
 ---
 
