@@ -62,7 +62,7 @@ to design for some of the world's best tech companies... and the future.
 <!-- .element: style="width: 200px" -->
 
 <!-- .slide: data-background="#ffaa7b" -->
-    
+
 ---
 
 ###### Premise
@@ -72,8 +72,8 @@ Modeled after popular reality shows like _Rhythm and Flow_, _The Voice_, and _Ne
 1. Be given a challenge based on a company client.
 2. Work in teams to create a stunning web based product by the end of the week.
 3. Present their work in a mini-showcase each week all culminating in a final showcase at the end of the summer.
-   <!-- .slide: data-background="#ffaa7b" -->
-   
+<!-- .slide: data-background="#ffaa7b" -->
+
 ---
 
 ![alt text](https://media.giphy.com/media/MXjcLtU32AML6xAGeu/giphy.gif)
