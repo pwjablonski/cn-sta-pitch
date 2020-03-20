@@ -52,6 +52,18 @@ to design for some of the world's best tech companies... and the future.
 <!-- .slide: data-background="#fee975" -->
 
 ---
+Explore.
+<!-- .element: class="fragment"-->
+
+Create.
+<!-- .element: class="fragment"-->
+
+Connect.
+<!-- .element: class="fragment"-->
+
+Change.
+<!-- .element: class="fragment"-->
+---
 
 ###### Who here likes reality tv?
 ![alt text](<https://media.giphy.com/media/YOARxPR1ywIDf5lBQw/giphy.gif>)
