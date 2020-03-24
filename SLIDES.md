@@ -368,25 +368,27 @@ Move up the title, increase width of table, make font bigger
 ###### Then in conjunction with... 
 
   ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2Fwhsat%20logo.jpg?v=1585085748695>)
-<!-- .element: style="width: 100px; margin:auto" -->
+<!-- .element: style="width: 500px; margin:auto" -->
 <!-- .element: class="fragment"-->
+
+---
 
  ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FScreen%20Shot%202020-03-24%20at%205.28.19%20PM.png?v=1585085717300>)
-<!-- .element: style="width: 100px; margin:auto" -->
+<!-- .element: style="width: 500px; margin:auto" -->
 <!-- .element: class="fragment"-->
+
+---
 
   ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2Fstnicks%20logo.jpg?v=1585085618898>)
-<!-- .element: style="width: 100px; margin:auto" -->
+<!-- .element: style="width: 500px; margin:auto" -->
 <!-- .element: class="fragment"-->
 
+---
 
-  ![alt text](<>)
-<!-- .element: style="width: 100px; margin:auto" -->
+  ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2Fcn%20logo.jpg?v=1585086132365>)
+<!-- .element: style="width: 500px; margin:auto" -->
 <!-- .element: class="fragment"-->
 
-
-
-<!-- .slide: data-background="#17d3ff"-->
 
 ---
 
