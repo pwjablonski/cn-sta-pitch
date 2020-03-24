@@ -91,12 +91,15 @@ to design for some of the world's best tech companies... and the future.
 
 ###### Premise
 
-Modeled after popular reality shows like _Rhythm and Flow_, _The Voice_, and _Next in Fashion_, each week students will:
+Modeled after popular reality shows like _Rhythm and Flow_, _The Voice_, and _Next in Fashion_, each week students will: 
 
-1. Be given a challenge based on a company client.
-2. Work in teams to create a stunning web based product by the end of the week.
+1. Work in teams to create a stunning web based product by the end of the week.
+2. Be given a challenge based on a company client.
 3. Present their work in a mini-showcase each week all culminating in a final showcase at the end of the summer.
 <!-- .slide: data-background="#ffaa7b" -->
+
+Note: 
+Decrease size and left  align
 
 ---
 
@@ -122,20 +125,28 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 <!-- .element: style="width: 280px; margin:auto" -->
 <!-- .slide: data-background="#00D4FD" -->
 
+Note:
+Add accelerator program
+
 ---
 
 #### Summer Tech Academy Bootcamp Goals:
-- To inspire  students with engaging web-based projects and thought-provoking discussions about tech and its role in society.  
-- To get students  excited about tech and want to be future game changers in this ever important industry. 
+- **INSPIRE and PROVOKE**: Inspire students with engaging web-based projects and thought-provoking discussions about tech and its role in society.  
+- **EXCITE and DREAM**:  Get students  excited about tech and want to be future game changers in this ever important industry. 
 <!-- .slide: data-background="#00D4FD" -->
+
+Note:
+Inspire and provoke
 
 ---
 
 #### Summer Tech Academy Incubator @ Etsy Goals:
-- To inspire  students with engaging web-based projects and thought-provoking discussions about tech and its role in society.  
-- To get students  excited about tech and want to be future game changers in this ever important industry. 
-- To expose students to what life is like at an actual tech company, and help them develop the professional skills they'd need to succeed in such an environemnt 
+- **INSPIRE and PROVOKE**: Inspire  students with engaging web-based projects and thought-provoking discussions about tech and its role in society.  
+- **EXCITE and DREAM**: Get students  excited about tech and want to be future game changers in this ever important industry. 
+- **EXPOSE and DEVELOP**: To expose students to what life is like at an actual tech company, and help them develop the professional skills they'd need to succeed in such an environemnt 
 <!-- .slide: data-background="#fee975" -->
+Note:
+
 
 ---
 
