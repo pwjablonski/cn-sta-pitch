@@ -131,7 +131,7 @@ Add accelerator program
 ---
 
 #### Summer Tech Academy Bootcamp Goals:
-- **INSPIRE and PROVOKE**: Inspire students with engaging web-based projects and thought-provoking discussions about tech and its role in society.  
+- **INSPIRE and PROVOKE**: Inspire students to learn coding with engaging web-based projects and thought-provoking discussions about tech and its role in society.  
 - **EXCITE and DREAM**:  Get students  excited about tech and want to be future game changers in this ever important industry. 
 <!-- .slide: data-background="#00D4FD" -->
 
