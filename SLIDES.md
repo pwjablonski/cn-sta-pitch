@@ -238,7 +238,7 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 ---
 
-### Example Projects
+### What is p5.js anyway??
 
 ---
 
@@ -249,6 +249,10 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 <iframe src="https://www.openprocessing.org/sketch/858739/embed/" width="100%" height="500px"></iframe>
 
+
+---
+
+<a href="https://www.openprocessing.org/browse/#" target="blank">Check Out More Here!</a>
 
 ---
 
