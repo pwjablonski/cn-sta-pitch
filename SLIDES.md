@@ -349,6 +349,7 @@ Move up the title, increase width of table, make font bigger
 ---
 
 ### Change The Game?
+<!-- .slide: data-background="#fee975" -->
 
 ---
 
@@ -360,15 +361,25 @@ Move up the title, increase width of table, make font bigger
 <!-- .element: class="fragment"-->
 ###### Connect
 <!-- .element: class="fragment"-->
+<!-- .slide: data-background="#ffaa7b" -->
 
 ---
 
-### Then in conjunction with 
+### Then in conjunction with... 
 
-#### WHSAT
-#### SYEP
-#### ST NICKS ALLIANCE
-#### CODE NATION
+  ![alt text](<https://media.giphy.com/media/dz7URyVai4CQURp4Pz/giphy.gif>)
+<!-- .element: style="width: 200px; margin:auto" -->
+
+  ![alt text](<https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3db1be67973419.5b4fa1c87dd24.gif>)
+<!-- .element: style="width: 200px; margin:auto" -->
+
+
+  ![alt text](<https://media1.giphy.com/media/3otPoHZbjqR6bkdrS8/giphy.gif>)
+<!-- .element: style="width: 200px; margin:auto" -->
+
+
+
+<!-- .slide: data-background="#17d3ff"-->
 
 ---
 
@@ -379,7 +390,7 @@ Move up the title, increase width of table, make font bigger
 ---
 
 
-### The Code Nation's Summer Tech Academy!
+### Code Nation's Summer Tech Academy!
 
 
 ![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(3).png?v=1584388947507)
