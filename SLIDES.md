@@ -114,7 +114,7 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 ---
 
-### Two Programs. Twice The Impact:
+### Three Programs. Thrice The Impact:
 
 #### Summer Tech Academy Bootcamp 
   ![alt text](<https://media.giphy.com/media/dz7URyVai4CQURp4Pz/giphy.gif>)
@@ -125,8 +125,10 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 <!-- .element: style="width: 280px; margin:auto" -->
 <!-- .slide: data-background="#00D4FD" -->
 
-Note:
-Add accelerator program
+#### Summer Tech Accelerator
+  ![alt text](<https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3db1be67973419.5b4fa1c87dd24.gif>)
+<!-- .element: style="width: 280px; margin:auto" -->
+<!-- .slide: data-background="#00D4FD" -->
 
 ---
 
