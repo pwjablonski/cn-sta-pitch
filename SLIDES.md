@@ -1,4 +1,5 @@
-# Code Nation
+
+![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2Fcnlogo.png?v=1585070772508)<!-- .element: style="width: 600px; margin:auto; border: none; background:none; box-shadow:none" -->
 
 <!--.slide: data-background="https://cdn.glitch.com/1b3d9304-305b-436e-bb33-a8bc46a8b5b0/teal-city.png" -->
 
