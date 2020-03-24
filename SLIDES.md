@@ -116,18 +116,18 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 ### Three Programs. Thrice The Impact:
 
-#### Summer Tech Academy Bootcamp 
+##### Summer Tech Academy Bootcamp 
   ![alt text](<https://media.giphy.com/media/dz7URyVai4CQURp4Pz/giphy.gif>)
-<!-- .element: style="width: 280px; margin:auto" -->
+<!-- .element: style="width: 200px; margin:auto" -->
 
-#### Summer Tech Academy Incubator @ Etsy
+##### Summer Tech Academy Incubator @ Etsy
   ![alt text](<https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3db1be67973419.5b4fa1c87dd24.gif>)
-<!-- .element: style="width: 280px; margin:auto" -->
+<!-- .element: style="width: 200px; margin:auto" -->
 <!-- .slide: data-background="#00D4FD" -->
 
-#### Summer Tech Accelerator
-  ![alt text](<https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3db1be67973419.5b4fa1c87dd24.gif>)
-<!-- .element: style="width: 280px; margin:auto" -->
+##### Summer Tech Academy Accelerator
+  ![alt text](<https://media1.giphy.com/media/3otPoHZbjqR6bkdrS8/giphy.gif>)
+<!-- .element: style="width: 200px; margin:auto" -->
 <!-- .slide: data-background="#00D4FD" -->
 
 ---
@@ -212,6 +212,26 @@ Move up the title, increase width of table, make font bigger
                                                                                                                        
 
 <!-- .element: style="font-size: .5em" -->
+
+---
+
+### Key Program Components
+
+###### Tech Workshops
+<!-- .element: class="fragment"-->
+###### Team Work Time
+<!-- .element: class="fragment"-->
+###### Professional Skills Workshops
+<!-- .element: class="fragment"-->
+###### Tech and Society 
+<!-- .element: class="fragment"-->
+###### Field Trips
+<!-- .element: class="fragment"-->
+###### Showcases
+<!-- .element: class="fragment"-->
+
+
+<!-- .slide: data-background="#fee975" -->
 
 ---
 
@@ -322,15 +342,6 @@ Move up the title, increase width of table, make font bigger
 
 ---
 
-### This is...Code Nation's Summer Tech Academy!
-
-
-
-![alt text](https://media.giphy.com/media/kegnFrhZLZa6IwzeTi/giphy.gif)
-
-<!-- .slide: data-background="#00ffcc" -->
-
----
 
 # Bring Your Natural Talents + Gifts to The World of Tech
 <!-- .slide: data-background="#00ffcc" -->
@@ -373,3 +384,11 @@ Move up the title, increase width of table, make font bigger
 # CODE NATION
 
 ---
+
+### This is...Code Nation's Summer Tech Academy!
+
+
+
+![alt text](https://media.giphy.com/media/kegnFrhZLZa6IwzeTi/giphy.gif)
+
+<!-- .slide: data-background="#00ffcc" -->
