@@ -365,17 +365,24 @@ Move up the title, increase width of table, make font bigger
 
 ---
 
-### Then in conjunction with... 
+###### Then in conjunction with... 
 
-  ![alt text](<https://media.giphy.com/media/dz7URyVai4CQURp4Pz/giphy.gif>)
-<!-- .element: style="width: 200px; margin:auto" -->
+  ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2Fwhsat%20logo.jpg?v=1585085748695>)
+<!-- .element: style="width: 100px; margin:auto" -->
+<!-- .element: class="fragment"-->
 
-  ![alt text](<https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3db1be67973419.5b4fa1c87dd24.gif>)
-<!-- .element: style="width: 200px; margin:auto" -->
+ ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FScreen%20Shot%202020-03-24%20at%205.28.19%20PM.png?v=1585085717300>)
+<!-- .element: style="width: 100px; margin:auto" -->
+<!-- .element: class="fragment"-->
+
+  ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2Fstnicks%20logo.jpg?v=1585085618898>)
+<!-- .element: style="width: 100px; margin:auto" -->
+<!-- .element: class="fragment"-->
 
 
-  ![alt text](<https://media1.giphy.com/media/3otPoHZbjqR6bkdrS8/giphy.gif>)
-<!-- .element: style="width: 200px; margin:auto" -->
+  ![alt text](<>)
+<!-- .element: style="width: 100px; margin:auto" -->
+<!-- .element: class="fragment"-->
 
 
 
@@ -386,6 +393,7 @@ Move up the title, increase width of table, make font bigger
 ### Get Ready for...
 
 ![alt text](https://media.giphy.com/media/1BgNCE4bMilwje4SBi/giphy.gif)
+<!-- .element: style="width: 300px; margin:auto" -->
 
 ---
 
