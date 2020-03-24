@@ -1,3 +1,7 @@
 strong {
   color: #ffaa7b;
 }
+
+ul > li {
+  list-style: url("sqpurple.gif");
+}
