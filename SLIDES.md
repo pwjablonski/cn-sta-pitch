@@ -150,7 +150,7 @@ Note:
 
 ---
 
-### Two Programs, Twice the Impact
+### Two Programs, Two Pathways
 
 | The Bootcamp                                                               | The Incubator                                                              |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
@@ -160,13 +160,16 @@ Note:
 
 <!-- .slide: data-background="#00D4FD" -->
 
+Note:
+Shink the text, What's the same
+
 ---
 
-### Two Programs, Twice the Impact
+### Two Programs, Two Pathways
 
 | The Bootcamp                                        | The Etsy Incubator                                                 |
 | --------------------------------------------------- | ------------------------------------------------------------------ |
-| For students 14-15                                  | For students 16 and older                                          |
+| For students age 14-15                              | For students age 16 and older                                          |
 | Takes place at the Van Arsdale Education Campus     | Takes place at Etsy                                                |
 | Will feature professional skills training from SYEP | Will feature professional skills workshops provided by Code Nation |
 | Culminates with an SYEP-wide showcase               | Culminates with a showcase (at Etsy)                               |
@@ -189,6 +192,9 @@ Note:
                                   
 
 <!-- .element: style="font-size: .5em" -->
+
+Note:
+Move up the title, increase width of table, make font bigger
 
 ---
 
