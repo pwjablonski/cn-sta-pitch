@@ -343,51 +343,49 @@ Move up the title, increase width of table, make font bigger
 ---
 
 
-# Bring Your Natural Talents + Gifts to The World of Tech
+### Are you ready to bring your natural talents and gifts to the world of tech?
 <!-- .slide: data-background="#00ffcc" -->
 
 ---
 
-# Change The Game
+### Change The Game?
 
 ---
 
-# LEARN CODING SKILLS TO...
+### LEARN CODING SKILLS TO...
+
+###### Create
+<!-- .element: class="fragment"-->
+###### Change
+<!-- .element: class="fragment"-->
+###### Connect
+<!-- .element: class="fragment"-->
+
+---
+
+### Then in conjunction with 
+
+#### WHSAT
+#### SYEP
+#### ST NICKS ALLIANCE
+#### CODE NATION
+
+---
+
+### Get Ready for...
+
+![alt text](https://media.giphy.com/media/1BgNCE4bMilwje4SBi/giphy.gif)
 
 ---
 
 
-# Create
+### The Code Nation's Summer Tech Academy!
+
+
+![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(3).png?v=1584388947507)
+<!-- .slide: data-background="#00ffcc" -->
 
 ---
-
-# Connect
-
----
-
-# Change
-
----
-
-# WHSAT
-
----
-
-# SYEP
-
----
-
-# ST NICKS ALLIANCE
-
----
-
-# CODE NATION
-
----
-
-### This is...Code Nation's Summer Tech Academy!
-
-
 
 ![alt text](https://media.giphy.com/media/kegnFrhZLZa6IwzeTi/giphy.gif)
 
