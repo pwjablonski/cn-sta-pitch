@@ -114,16 +114,13 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 ---
 
-### Three Programs. Thrice The Impact:
-
 ##### Summer Tech Academy Bootcamp 
-  ![alt text](<https://media.giphy.com/media/dz7URyVai4CQURp4Pz/giphy.gif>)
+![alt text](<https://media.giphy.com/media/dz7URyVai4CQURp4Pz/giphy.gif>)
 <!-- .element: style="width: 200px; margin:auto" -->
 
 ##### Summer Tech Academy Incubator @ Etsy
-  ![alt text](<https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3db1be67973419.5b4fa1c87dd24.gif>)
+![alt text](<https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3db1be67973419.5b4fa1c87dd24.gif>)
 <!-- .element: style="width: 200px; margin:auto" -->
-<!-- .slide: data-background="#00D4FD" -->
 
 ##### Summer Tech Academy Accelerator
   ![alt text](<https://media1.giphy.com/media/3otPoHZbjqR6bkdrS8/giphy.gif>)
