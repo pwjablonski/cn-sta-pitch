@@ -288,7 +288,9 @@ Program Flow <!-- .element: class="fragment"-->
 
 Itteration <!-- .element: class="fragment"-->
 
-Data Structures<!-- .element: class="fragment"-->
+Data Structures <!-- .element: class="fragment"-->
+
+Functions <!-- .element: class="fragment"-->
 
 ---
 
@@ -367,15 +369,16 @@ Data Structures<!-- .element: class="fragment"-->
 
 ###### Create
 <!-- .element: class="fragment"-->
-###### Change
-<!-- .element: class="fragment"-->
 ###### Connect
 <!-- .element: class="fragment"-->
+###### Change
+<!-- .element: class="fragment"-->
+
 <!-- .slide: data-background="#ffaa7b" -->
 
 ---
 
-###### Then in conjunction with... 
+###### Join us... 
 
   ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2Fwhsat%20logo.jpg?v=1585085748695>)
 <!-- .element: style="width: 500px; margin:auto" -->
