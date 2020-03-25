@@ -56,7 +56,6 @@ to design for some of the world's best tech companies... and the future.
 ### This is ...
 
 ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(3).png?v=1584388947507>)
-
 <!-- .element: class="fragment"-->
 
 <!-- .slide: data-background="#fee975" -->
@@ -276,6 +275,19 @@ Move up the title, increase width of table, make font bigger
 ---
 
 ### What is p5.js anyway??
+
+---
+
+## Computing Concepts
+
+- Variables and Data Types
+<!-- .element: class="fragment"-->
+
+- Program Flow
+<!-- .element: class="fragment"-->
+
+- Change.
+<!-- .element: class="fragment"-->
 
 ---
 
