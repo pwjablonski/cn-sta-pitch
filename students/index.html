@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+
+    <title>Code Nation</title>
+    <link
+      rel="shortcut icon"
+      type="image/png"
+      href="https://cdn.glitch.com/1b3d9304-305b-436e-bb33-a8bc46a8b5b0%2FCN_Logo_Black.png?v=1582310324947"
+    />
+    <link rel="stylesheet" href="../reveal/css/reset.css" />
+    <link rel="stylesheet" href="../reveal/css/reveal.css" />
+    <link rel="stylesheet" href="../reveal/css/theme/white.css" />
+    <link rel="stylesheet" href="../reveal/css/theme/codenation.css" />
+    <link rel="stylesheet" href="../reveal/lib/css/glitch.css" />
+  </head>
+
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section
+          class="slides-data"
+          data-markdown="../SLIDES.md"
+          data-separator-notes="^Note:"
+        ></section>
+      </div>
+    </div>
+
+    <script src="../reveal/js/reveal.js"></script>
+    <script src="students/socketData.js"></script>
+    <script>
+      // More info about dependencies:
+      // - https://github.com/hakimel/reveal.js#dependencies
+      Reveal.initialize({
+        hash: true,
+        history: true,
+        transitionSpeed: "slow",
+        multiplex: {
+          // Example values. To generate your own, see the socket.io server instructions.
+          secret: null, // null so the clients do not have control of the master presentation
+          id: socketData.id, // id, obtained from socket.io server
+          url: socketData.url // Location of socket.io server
+        },
+        dependencies: [
+          { src: "../reveal/plugin/markdown/marked.js" },
+          { src: "../reveal/plugin/markdown/markdown.js" },
+          { src: "../reveal/plugin/highlight/highlight.js", async: true },
+          { src: "../reveal/plugin/notes/notes.js", async: true },
+          { src: "../reveal/plugin/zoom-js/zoom.js", async: true },
+          {
+            src:
+              "//cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js",
+            async: true
+          },
+          { src: "../reveal/plugin/multiplex/client.js", async: true }
+        ]
+      });
+
+      // More info about config:
+      // - https://github.com/hakimel/reveal.js#configuration
+      Reveal.configure({ slideNumber: true, showSlideNumber: "print" });
+
+      Reveal.addEventListener("ready", function(event) {
+        addResourceLinksToSlides();
+        printPDF();
+        updateSlidesTitle();
+      });
+
+      function printPDF() {
+        const link = document.createElement("link");
+        link.rel = "stylesheet";
+        link.type = "text/css";
+        link.href = window.location.search.match(/print-pdf/gi)
+          ? "reveal/css/print/pdf.css"
+          : "reveal/css/print/paper.css";
+        document.getElementsByTagName("head")[0].appendChild(link);
+      }
+
+    </script>
+  </body>
+</html>

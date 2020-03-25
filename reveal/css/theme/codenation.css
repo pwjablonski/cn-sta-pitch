@@ -1,0 +1,21 @@
+strong {
+  color: #ffaa7b;
+}
+
+.reveal ul {
+  list-style: none;
+}
+
+li {
+  margin: 0.75rem 0 0.75rem 0;
+}
+
+ul li:before {
+  content: "\2794";
+  margin-left: -5rem;
+  margin-right: 2.5rem;
+}
+
+.reveal .slides section {
+  line-height: 1;
+}
