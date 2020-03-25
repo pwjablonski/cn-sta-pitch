@@ -1,7 +1,7 @@
-
 ![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2Fcnlogo.png?v=1585070772508)<!-- .element: style="width: 600px; margin:auto; border: none; background:none; box-shadow:none" -->
 
 <!--.slide: data-background="https://cdn.glitch.com/1b3d9304-305b-436e-bb33-a8bc46a8b5b0/teal-city.png" -->
+
 Note:
 Code Nation
 
@@ -9,11 +9,16 @@ Code Nation
 
 ## Technology is changing the world around us...
 
-![alt text](https://media.giphy.com/media/xT8qBkJRN715dTqnok/giphy.gif) 
+![alt text](https://media.giphy.com/media/xT8qBkJRN715dTqnok/giphy.gif)
+
 <!-- .element: style="width: 100px; margin:auto" -->
+
 ![alt text](https://media.giphy.com/media/atZII8NmbPGw0/giphy.gif)
+
 <!-- .element: style="width: 100px; margin:auto" -->
+
 ![alt text](https://media.giphy.com/media/12qq4Em3MVuwJW/giphy.gif)
+
 <!-- .element: style="width: 100px; margin:auto" -->
 
 ---
@@ -27,6 +32,7 @@ It's time for our youth to take the lead in shaping it.
 # 6
 
 weeks
+
 <!-- .slide: data-background="#00FECD" -->
 
 ---
@@ -56,20 +62,23 @@ to design for some of the world's best tech companies... and the future.
 ### This is ...
 
 ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(3).png?v=1584388947507>)
+
 <!-- .element: class="fragment"-->
 
 <!-- .slide: data-background="#fee975" -->
 
 ---
 
-
 ## Create.
+
 <!-- .element: class="fragment"-->
 
 ## Connect.
+
 <!-- .element: class="fragment"-->
 
 ## Change.
+
 <!-- .element: class="fragment"-->
 
 <!-- .slide: data-background="#fee975" -->
@@ -77,11 +86,17 @@ to design for some of the world's best tech companies... and the future.
 ---
 
 ###### Who here likes reality tv?
-![alt text](<https://media.giphy.com/media/YOARxPR1ywIDf5lBQw/giphy.gif>)
+
+![alt text](https://media.giphy.com/media/YOARxPR1ywIDf5lBQw/giphy.gif)
+
 <!-- .element: style="width: 200px; margin:auto" -->
-![alt text](<https://media.giphy.com/media/l0MYFCievRkAMaBbi/giphy.gif>)
+
+![alt text](https://media.giphy.com/media/l0MYFCievRkAMaBbi/giphy.gif)
+
 <!-- .element: style="width: 200px; margin:auto" -->
-![alt text](<https://media.giphy.com/media/3o7TKGMZHi73yzCumQ/giphy.gif>)
+
+![alt text](https://media.giphy.com/media/3o7TKGMZHi73yzCumQ/giphy.gif)
+
 <!-- .element: style="width: 200px; margin:auto" -->
 
 <!-- .slide: data-background="#ffaa7b" -->
@@ -90,15 +105,15 @@ to design for some of the world's best tech companies... and the future.
 
 ###### Premise
 
-Modeled after popular reality shows like _Rhythm and Flow_, _The Voice_, and _Next in Fashion_, each week students will: 
+Modeled after popular reality shows like _Rhythm and Flow_, _The Voice_, and _Next in Fashion_, each week students will:
 
 1. Work in teams to create a stunning web based product by the end of the week.
 2. Be given a challenge based on a company client.
 3. Present their work in a mini-showcase each week all culminating in a final showcase at the end of the summer.
-<!-- .slide: data-background="#ffaa7b" -->
+   <!-- .slide: data-background="#ffaa7b" -->
 
-Note: 
-Decrease size and left  align
+Note:
+Decrease size and left align
 
 ---
 
@@ -113,25 +128,32 @@ students will leave the **Summer Tech Academy** inspired to take part in all the
 
 ---
 
-##### Summer Tech Academy Bootcamp 
-![alt text](<https://media.giphy.com/media/dz7URyVai4CQURp4Pz/giphy.gif>)
+##### Summer Tech Academy Bootcamp
+
+![alt text](https://media.giphy.com/media/dz7URyVai4CQURp4Pz/giphy.gif)
+
 <!-- .element: style="width: 200px; margin:auto" -->
 
 ##### Summer Tech Academy Incubator @ Etsy
-![alt text](<https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3db1be67973419.5b4fa1c87dd24.gif>)
+
+![alt text](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3db1be67973419.5b4fa1c87dd24.gif)
+
 <!-- .element: style="width: 200px; margin:auto" -->
 
 ##### Summer Tech Academy Accelerator
-  ![alt text](<https://media1.giphy.com/media/3otPoHZbjqR6bkdrS8/giphy.gif>)
+
+![alt text](https://media1.giphy.com/media/3otPoHZbjqR6bkdrS8/giphy.gif)
+
 <!-- .element: style="width: 200px; margin:auto" -->
 <!-- .slide: data-background="#00D4FD" -->
 
 ---
 
 #### Summer Tech Academy Bootcamp Goals:
-- **INSPIRE and PROVOKE**: Inspire students to learn coding with engaging web-based projects and thought-provoking discussions about tech and its role in society.  
-- **EXCITE and DREAM**:  Get students  excited about tech and want to be future game changers in this ever important industry. 
-<!-- .slide: data-background="#00D4FD" -->
+
+- **INSPIRE and PROVOKE**: Inspire students to learn coding with engaging web-based projects and thought-provoking discussions about tech and its role in society.
+- **EXCITE and DREAM**: Get students excited about tech and want to be future game changers in this ever important industry.
+  <!-- .slide: data-background="#fee975" -->
 
 Note:
 Inspire and provoke
@@ -139,12 +161,12 @@ Inspire and provoke
 ---
 
 #### Summer Tech Academy Incubator @ Etsy Goals:
-- **INSPIRE and PROVOKE**: Inspire  students with engaging web-based projects and thought-provoking discussions about tech and its role in society.  
-- **EXCITE and DREAM**: Get students  excited about tech and want to be future game changers in this ever important industry. 
-- **EXPOSE and DEVELOP**: To expose students to what life is like at an actual tech company, and help them develop the professional skills they'd need to succeed in such an environemnt 
-<!-- .slide: data-background="#fee975" -->
-Note:
 
+- **INSPIRE and PROVOKE**: Inspire students with engaging web-based projects and thought-provoking discussions about tech and its role in society.
+- **EXCITE and DREAM**: Get students excited about tech and want to be future game changers in this ever important industry.
+- **EXPOSE and DEVELOP**: To expose students to what life is like at an actual tech company, and help them develop the professional skills they'd need to succeed in such an environemnt
+  <!-- .slide: data-background="#0080ff" -->
+  Note:
 
 ---
 
@@ -167,7 +189,7 @@ Shink the text, What's the same
 
 | The Bootcamp                                        | The Etsy Incubator                                                 |
 | --------------------------------------------------- | ------------------------------------------------------------------ |
-| For students age 14-15                              | For students age 16 and older                                          |
+| For students age 14-15                              | For students age 16 and older                                      |
 | Takes place at the Van Arsdale Education Campus     | Takes place at Etsy                                                |
 | Will feature professional skills training from SYEP | Will feature professional skills workshops provided by Code Nation |
 | Culminates with an SYEP-wide showcase               | Culminates with a showcase (at Etsy)                               |
@@ -181,13 +203,12 @@ Shink the text, What's the same
 
 20 hours a week, 5 hours each day <!-- .element: style="font-size: .5em" -->
 
-| Monday                                 | Tuesday           | Wednesday      | Thursday          |
-| -------------------------------------- | ----------------- | -------------- | ----------------- |
-| Challenge and company client revealed! | Tech Workshops #3 | Team Work Time | Presentation Prep |
-| Tech Workshops #1 + #2                 | Team work time    | Trip!          | MINI SHOWCASE!    |
-| Team Worktime                          | SYEP              | SYEP           | SYEP              |
-| SYEP                                   | Tech and Society  |                |                   |
-                                  
+| Monday                 | Tuesday           | Wednesday      | Thursday          |
+| ---------------------- | ----------------- | -------------- | ----------------- |
+| Challenge Reveal!      | Tech Workshops #3 | Team Work Time | Presentation Prep |
+| Tech Workshops #1 + #2 | Team work time    | Trip!          | MINI SHOWCASE!    |
+| Team Worktime          | SYEP              | SYEP           | SYEP              |
+| SYEP                   | Tech and Society  |                |                   |
 
 <!-- .element: style="font-size: .5em" -->
 
@@ -200,34 +221,43 @@ Move up the title, increase width of table, make font bigger
 
 25 hours, 5 hours each day <!-- .element: style="font-size: .5em" -->
 
-| Monday                                 | Tuesday          | Wednesday      | Thursday                     | Friday            |
-| -------------------------------------- | ---------------- | -------------- | ---------------------------- | ----------------- |
-| Challenge and company client revealed! | Tech Workshop #3 | Team Work Time | Team Worktime                | Presentation Prep |
-| Tech Workshops #1 + #2                 | Team work time   | Trip!          | Professional Skills Workshop | MINI SHOWCASE!    |
-| Team Worktime                          | Tech and Society |                |                              |                   |
-                                                                                                                       
+| Monday                 | Tuesday          | Wednesday      | Thursday                     | Friday            |
+| ---------------------- | ---------------- | -------------- | ---------------------------- | ----------------- |
+| Challenge Reveal!      | Tech Workshop #3 | Team Work Time | Team Worktime                | Presentation Prep |
+| Tech Workshops #1 + #2 | Team work time   | Trip!          | Professional Skills Workshop | MINI SHOWCASE!    |
+| Team Worktime          | Tech and Society |                |                              |                   |
 
-<!-- .element: style="font-size: .5em" -->
+<!-- .element: style="font-size: .5em;" -->
 
 ---
 
 ### Key Program Components
 
 ###### Tech Workshops
+
 <!-- .element: class="fragment"-->
+
 ###### Team Work Time
+
 <!-- .element: class="fragment"-->
+
 ###### Professional Skills Workshops
+
 <!-- .element: class="fragment"-->
-###### Tech and Society 
+
+###### Tech and Society
+
 <!-- .element: class="fragment"-->
+
 ###### Field Trips
+
 <!-- .element: class="fragment"-->
+
 ###### Showcases
+
 <!-- .element: class="fragment"-->
 
-
-<!-- .slide: data-background="#fee975" -->
+<!-- .slide: data-background="#0080ff" -->
 
 ---
 
@@ -245,7 +275,7 @@ Move up the title, increase width of table, make font bigger
 
 - Learn and practice different skills relevant to the workplace (and beyond!)
 - For Bootcamp, these will be provided by SYEP
-- For Etsy Incubator, these will be provided by Code Nation. 
+- For Etsy Incubator, these will be provided by Code Nation.
 - Sample topics: financial literacy, interviewing, networking, resume writing
 
 <!-- .slide: data-background="#ffaa7b" -->
@@ -268,8 +298,6 @@ Move up the title, increase width of table, make font bigger
 - Engage in a hands-on tech activity
 - Learn about different tech careers in "career stations" activity
 
-
-
 <!-- .slide: data-background="#00ffcc" -->
 
 ---
@@ -286,7 +314,7 @@ Variables and Data Types <!-- .element: class="fragment"-->
 
 Program Flow <!-- .element: class="fragment"-->
 
-Itteration <!-- .element: class="fragment"-->
+Iteration <!-- .element: class="fragment"-->
 
 Data Structures <!-- .element: class="fragment"-->
 
@@ -296,11 +324,9 @@ Functions <!-- .element: class="fragment"-->
 
 <iframe src="https://www.openprocessing.org/sketch/751983/embed/" width="100%" height="500px"></iframe>
 
-
 ---
 
 <iframe src="https://www.openprocessing.org/sketch/858739/embed/" width="100%" height="500px"></iframe>
-
 
 ---
 
@@ -346,21 +372,22 @@ Functions <!-- .element: class="fragment"-->
 
 ### Milestones
 
-- **Partnership Negotiations**: 	Feb 1st  - April 1st
-- **Research + Design**: 		Mar 1st - April 15th 
-- **Preparation + Setup**:	March 15th - June 30th
-- **Program Launch**:  		June 20th - August 15th
-- **Closeout + Reporting**:	End of August 2020
+- **Partnership Negotiations**: Feb 1st - April 1st
+- **Research + Design**: Mar 1st - April 15th
+- **Preparation + Setup**: March 15th - June 30th
+- **Program Launch**: June 20th - August 15th
+- **Closeout + Reporting**: End of August 2020
 
 ---
 
-
 ### Are you ready to bring your natural talents and gifts to the world of tech?
+
 <!-- .slide: data-background="#00ffcc" -->
 
 ---
 
 ### Change The Game?
+
 <!-- .slide: data-background="#fee975" -->
 
 ---
@@ -368,55 +395,63 @@ Functions <!-- .element: class="fragment"-->
 ### LEARN CODING SKILLS TO...
 
 ###### Create
+
 <!-- .element: class="fragment"-->
+
 ###### Connect
+
 <!-- .element: class="fragment"-->
+
 ###### Change
+
 <!-- .element: class="fragment"-->
 
 <!-- .slide: data-background="#ffaa7b" -->
 
 ---
 
-###### Join us... 
+###### Then in partnership with...
 
-  ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2Fwhsat%20logo.jpg?v=1585085748695>)
+![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2Fwhsat%20logo.jpg?v=1585085748695)
+
 <!-- .element: style="width: 500px; margin:auto" -->
 <!-- .element: class="fragment"-->
 
 ---
 
- ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FScreen%20Shot%202020-03-24%20at%205.28.19%20PM.png?v=1585085717300>)
+![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FScreen%20Shot%202020-03-24%20at%205.28.19%20PM.png?v=1585085717300)
+
 <!-- .element: style="width: 500px; margin:auto" -->
 <!-- .element: class="fragment"-->
 
 ---
 
-  ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2Fstnicks%20logo.jpg?v=1585085618898>)
+![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2Fstnicks%20logo.jpg?v=1585085618898)
+
 <!-- .element: style="width: 500px; margin:auto" -->
 <!-- .element: class="fragment"-->
 
 ---
 
-  ![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2Fcn%20logo.jpg?v=1585086132365>)
+![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2Fcn%20logo.jpg?v=1585086132365)
+
 <!-- .element: style="width: 500px; margin:auto" -->
 <!-- .element: class="fragment"-->
-
 
 ---
 
 ### Get Ready for...
 
 ![alt text](https://media.giphy.com/media/1BgNCE4bMilwje4SBi/giphy.gif)
+
 <!-- .element: style="width: 300px; margin:auto" -->
 
 ---
 
+### The Summer Tech Academy
 
-### Code Nation's Summer Tech Academy!
+![alt text](<https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(3).png?v=1584388947507>)
 
-
-![alt text](https://cdn.glitch.com/c05318e1-5cde-4a9c-9158-d7e8edf1ec76%2FLogo%20500x500%20px%20(3).png?v=1584388947507)
 <!-- .slide: data-background="#00ffcc" -->
 
 ---
