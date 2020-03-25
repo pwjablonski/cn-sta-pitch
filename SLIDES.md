@@ -276,18 +276,19 @@ Move up the title, increase width of table, make font bigger
 
 ### What is p5.js anyway??
 
+A JavaScript library used by artists, designers, animators, and engineers for creating digital experiences <!-- .element: class="fragment"-->
+
 ---
 
-## Computing Concepts
+### Computational Thinking
 
-- Variables and Data Types
-<!-- .element: class="fragment"-->
+Variables and Data Types <!-- .element: class="fragment"-->
 
-- Program Flow
-<!-- .element: class="fragment"-->
+Program Flow <!-- .element: class="fragment"-->
 
-- Change.
-<!-- .element: class="fragment"-->
+Itteration <!-- .element: class="fragment"-->
+
+Data Structures<!-- .element: class="fragment"-->
 
 ---
 
